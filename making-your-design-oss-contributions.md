@@ -13,7 +13,8 @@ For this workshop we are recommending:
 2. Understand user needs from the [User Research we've made available](https://github.com/sprblm/The-Design-We-Open/tree/main/user-research)
 3. Decide in your group what kind of design contribution to make to the OSS project. You can use any of our [templates of suggested design contributions](https://github.com/sprblm/The-Design-We-Open/tree/main/design-contribution-templates) or you can come up with your own if you want.
 4. Make sure at the end of the workshop you **tell the OSS projects what you've done!**. Your contribution is invisible unless you talk about it publicly! We recommend making a comment on the issue for the OSS that you were responding to in your groups.
-5. Talk about your design contribution to other designers! We recommend the [g0v Slack channel for designers](https://g0v.tw/intl/en/)
+5. Talk about your design contribution to other designers! We recommend the [g0v Slack channel for designers](https://g0v.tw/intl/en/).
+<img src ="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/images/Screenshot%202024-06-20%20at%2011.23.34.png" alt="A Screenshot of the g0v slack channel for designers">
 
 
 ## Here the suggested issues/tasks to contribute to as part of the COSCUP Workshop:

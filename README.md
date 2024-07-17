@@ -28,7 +28,7 @@ The outputs suggested utilise a series of [template resources](https://miro.com/
 
 ## 2023 Workshop
 
-<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/cover-image.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants user journey maps from COSCUP 2023 Open Design Workshop.*
+<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/images/cover-image.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants user journey maps from COSCUP 2023 Open Design Workshop.*
 
 [Read the Blog here](https://superbloom.design/learning/blog/open-design-workshop-at-coscup-2023-understanding-internet-shutdowns-and-how-design-can-improve-tools/)
 
