@@ -4,6 +4,15 @@ A lot of these tools are very complex if you don't know them in detail. The most
 
 Your work and insight can now be used to improve many OSS tools and help OSS projects become ready for design contributions.
 
+## How to make a contribution
+
+A contribution doesn't have to be BIG to be a very good contribution - comments, discussion, ideas and sketches can be awesome contributions too - don't be hard on yourself if you have a short or simple contribution as your first contribution or future contributions. The important thing is that you are involved and helping improve the OSS :).
+
+For this workshop we are recommending:
+1. Spend time understanding the OSS tool you work on as a group
+2. Understand user needs from the [User Research we've made available]()
+3. 
+
 
 ## Here the suggested issues/tasks to contribute to as part of the COSCUP Workshop:
 
