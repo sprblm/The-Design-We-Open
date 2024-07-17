@@ -9,9 +9,11 @@ Your work and insight can now be used to improve many OSS tools and help OSS pro
 A contribution doesn't have to be BIG to be a very good contribution - comments, discussion, ideas and sketches can be awesome contributions too - don't be hard on yourself if you have a short or simple contribution as your first contribution or future contributions. The important thing is that you are involved and helping improve the OSS :).
 
 For this workshop we are recommending:
-1. Spend time understanding the OSS tool you work on as a group
-2. Understand user needs from the [User Research we've made available]()
-3. 
+1. Spend time understanding the OSS tool you work on as a group. [Look at the isses we suggest](https://github.com/sprblm/The-Design-We-Open/tree/main/oss-issues) working on. You can follow the [example](hhttps://github.com/sprblm/The-Design-We-Open/blob/main/oss-issues/example-2-translating-developer-issues-to-design-challenges.jpg) and [guidance on how to turn a 'developer' sounding issue into a design issue.](https://github.com/sprblm/The-Design-We-Open/blob/main/oss-issues/tranlating-issues-to-design-challenges.jpg)
+2. Understand user needs from the [User Research we've made available](https://github.com/sprblm/The-Design-We-Open/tree/main/user-research)
+3. Decide in your group what kind of design contribution to make to the OSS project. You can use any of our [templates of suggested design contributions](https://github.com/sprblm/The-Design-We-Open/tree/main/design-contribution-templates) or you can come up with your own if you want.
+4. Make sure at the end of the workshop you **tell the OSS projects what you've done!**. Your contribution is invisible unless you talk about it publicly! We recommend making a comment on the issue for the OSS that you were responding to in your groups.
+5. Talk about your design contribution to other designers! We recommend the [g0v Slack channel for designers](https://g0v.tw/intl/en/)
 
 
 ## Here the suggested issues/tasks to contribute to as part of the COSCUP Workshop:
