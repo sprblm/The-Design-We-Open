@@ -10,6 +10,7 @@
 
 
 ## Optional
+- Participate in the [discussions in github](https://github.com/sprblm/The-Design-We-Open/discussions) about all the OSS projects and Issues for the workshop
 - [Join the g0v slack workspace](https://g0v.tw/intl/en/) and the 'designer' channel
 <img src ="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/images/Screenshot%202024-06-20%20at%2011.23.34.png" alt="A Screenshot of the g0v slack channel for designers">
 
