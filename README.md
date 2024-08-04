@@ -46,9 +46,9 @@ To bring together different kinds of contributors (developers, engineers, design
 In 2023 the outputs from the workshop were a series of 'ideations' that were informed by:
 1. Knowledge of the existing OSS functionality that help citizens in the event of an internet shutdown
 2. The participants citizen knowledge of Taiwan's infrastructure, culture and people's attitudes.
-3. The information and disucssions held about the [sample Personas](https://miro.com/app/board/uXjVM3Baplg=/?moveToWidget=3458764560291988871&cot=14), the user journey maps developed by the participants and their own experiences.
+3. The information and discussions held about the [sample Personas](https://miro.com/app/board/uXjVM3Baplg=/?moveToWidget=3458764560291988871&cot=14), the user journey maps developed by the participants and their own experiences.
 
-The participants developed, on paper improved personas, detailed user journey maps and ideas on how to intervene in the critical moments as an internet shutdown is preapred for, happens and then concludes into a preparation for the next phase. These documents were documented and stored privately as well as documented on HackMD notepads hosted by the COSCUP conference. In order to provide some safety and privacy for Taiwanese citizens participating in discussions around internet shutdowns - we have chosen to not host or link photos and information from the participants. 
+The participants developed, on paper improved personas, detailed user journey maps and ideas on how to intervene in the critical moments as an internet shutdown is prepared for, happens and then concludes into a preparation for the next phase. These documents were documented and stored privately as well as documented on HackMD notepads hosted by the COSCUP conference. In order to provide some safety and privacy for Taiwanese citizens participating in discussions around internet shutdowns - we have chosen to not host or link photos and information from the participants. 
 
 In 2024 we are following up with previous participants to better understand their thoughts on internet shutdowns, the design workshop and their outputs made. This information will be published and anonminity will be protected.
 
