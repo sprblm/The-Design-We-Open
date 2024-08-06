@@ -1,4 +1,4 @@
-# The-Design-We-Open
+# Designers in Tech- Open Source Design Workshop
 Welcome to the repository for the Open Design workshops at [COSCUP](https://coscup.org/) Conference. Design for Internet Shutdowns and Internet Freedom.
 
 
@@ -23,7 +23,7 @@ The teams of OSS enthusiasts are tasked with making their design contributions k
 
 We are suggesting that these design contributions are added to the appropriate issues indicated in the OSS tool repositories and/or if the OSS tools are maintaining Design Files (Figma, Adobe or Penpot) then we encourage multiple locations for submitting design contributions created in the workshop.
 
-The outputs suggested utilise a series of [template resources](https://miro.com/app/board/uXjVK7S_xCQ=/?moveToWidget=3458764592701402359&cot=14) created by [Superbloom.design](https://superbloom.design/) with generous and appreciated translation and design support by [Tofus](https://x.com/tofuswang) and [Julia](#).
+The outputs suggested utilise a series of [template resources](https://miro.com/app/board/uXjVK7S_xCQ=/?moveToWidget=3458764592701402359&cot=14) created by [Superbloom.design](https://superbloom.design/) with generous and appreciated translation and design support by [Tofus](https://x.com/tofuswang) and [Julia](https://www.linkedin.com/in/liujulia/).
 
 
 ## 2023 Workshop
