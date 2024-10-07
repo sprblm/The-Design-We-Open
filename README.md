@@ -18,7 +18,7 @@ The workshop is structured to ensure that participants, especially those new to 
 - Facilitating hands-on contributions: Ensuring each participant makes a tangible design contribution to an OSS project by the end of the workshop.
 - Promoting ongoing engagement: Providing resources and documentation to encourage continued contributions from designers to OSS projects post-workshop.
 
-[See the workshop structure on Miro here](https://miro.com/app/board/uXjVK7S_xCQ=/)
+[See the workshop structure on Miro here](https://miro.com/app/board/uXjVK7S_xCQ=/) (back up downloaded in September 2024)
 
 ### What the outputs will be
 
@@ -31,12 +31,12 @@ The outputs suggested utilise a series of [template resources](https://miro.com/
 
 ## 2023 Workshop
 
-<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/workshop slides/The Design We Open Workshop 2023/COSCUP 2023 - The Design We Open - cover.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants user journey maps from COSCUP 2023 Open Design Workshop that is used for the 2024 workshop cover intro.*
+<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/workshop slides/The Design We Open Workshop 2023/COSCUP 2023 - The Design We Open - cover.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants using their laptops and sticky notes in the background that is used for the 2023 workshop cover intro.*
 
 
 [Read the Blog here](https://superbloom.design/learning/blog/open-design-workshop-at-coscup-2023-understanding-internet-shutdowns-and-how-design-can-improve-tools/)
 
-[See the workshop structure on Miro here](https://miro.com/app/board/uXjVM3Baplg=/) (back up downloaded in July 2024)
+[See the workshop structure on Miro here](https://miro.com/app/board/uXjVM3Baplg=/) (back up downloaded in September 2024)
 
 [See the photos from the workshop](https://www.flickr.com/photos/coscup/53190898126/in/dateposted/) (with thanks to COSCUP photographers!) 
 
