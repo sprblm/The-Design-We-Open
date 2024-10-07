@@ -1,8 +1,11 @@
 # Designers in Tech- Open Source Design Workshop
+
 Welcome to the repository for the Open Design workshops at [COSCUP](https://coscup.org/) Conference. Design for Internet Shutdowns and Internet Freedom.
 
 
 ## 2024 Workshop
+
+<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/workshop slide images/Designers in Tech - Open Source Design Workshop 2024/Designers in Tech - Open Source Design Workshop -image-2024.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants user journey maps from COSCUP 2023 Open Design Workshop that is used for the 2024 workshop cover intro.*
 
 ### What the workshop aims for
 This workshop will bring together participants from diverse backgrounds, including designers, developers, product managers, and documentation writers, to collaboratively address issues in civic tech, privacy, security, and human rights-focused OSS tools.
@@ -28,7 +31,8 @@ The outputs suggested utilise a series of [template resources](https://miro.com/
 
 ## 2023 Workshop
 
-<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/images/cover-image.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants user journey maps from COSCUP 2023 Open Design Workshop.*
+<img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/main/workshop slide images/The Design We Open Workshop 2023/COSCUP 2023 - The Design We Open - cover.jpg" alt="A photo of participants user journey maps from COSCUP 2023 Open Design Workshop" width="100%" height="100%"> *A photo of participants user journey maps from COSCUP 2023 Open Design Workshop that is used for the 2024 workshop cover intro.*
+
 
 [Read the Blog here](https://superbloom.design/learning/blog/open-design-workshop-at-coscup-2023-understanding-internet-shutdowns-and-how-design-can-improve-tools/)
 
