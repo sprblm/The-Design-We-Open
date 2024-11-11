@@ -12,6 +12,6 @@ In summary, we hope that this will:
 - Lead to productive solutions that benefits people in need
 
 
-
+![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/design-workshop-1.jpg)
 
 Image caption: A photo from the workshop. 5 people around a table with large paper, sticky notes and pens write.
