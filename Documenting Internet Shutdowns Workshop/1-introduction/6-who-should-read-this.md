@@ -7,3 +7,6 @@ This report is for anyone interested in human rights and internet freedom OSS de
 3. **Workshop participants and contributors:** Participants who attended the original workshop and contributed to the creation of artifacts will benefit from having their work documented and made accessible in a more structured format, enabling them to revisit and build upon their ideas.
 4. **Future workshop facilitators and participants:** The resources published on a public GitHub repository will serve as a reference and guide for future workshops, ensuring continuity and enabling iterative improvements based on past experiences.
 
+![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/COSCUP-stage-lights-set-up.jpg)
+
+Image caption: A photo of the main lecture hall at COSCUP’s venue. Some people are setting up a camera and a light umbrella and most of the seats are full with audience members. 
