@@ -9,3 +9,19 @@ During the workshop, we encouraged participants to think about the different pos
 用戶旅程反思練習是本工作坊計劃中「探索用戶」活動的最後一環。這一練習通常涉及討論在某特定事件、時間軸或有意義的互動中，用戶可能採取的各種行動和選擇。例如，一些小組反思了在大規模城市抗議中收集重要信息的經歷，而另一些小組則探討了記者如何報導與主流媒體觀點相左的故事。這些旅程為我們提供了更深入的用戶角色視角，幫助我們了解他們在何時、何地以及如何完成他們的行動。同時，分析用戶在這些時候的情感和思考，可以讓我們更好地設計出符合他們需求的科技體驗。例如，如果用戶感到焦慮，科技應該如何幫助他們緩解壓力？如果用戶在行動中感到匆忙或衝動，科技又該如何幫助他們在管理身份和訊息時做出更謹慎、深思熟慮的決策？這些就是用戶旅程映射所能探索的價值所在。
 在我們的工作坊中，我們鼓勵參與者深入思考多種可能性，並選擇最符合所選角色邏輯的行動路線。這裡的關鍵理念是：沒有所謂的"錯誤"路線。每條路徑都具有其獨特的價值，因為它們不僅展現了工具的多樣化用途，還反映了用戶行為的複雜性。
 用戶旅程映射的精華在於認識到用戶選擇的多樣性和難以預測的本質。可能出現的正面和負面結果。理想情況下，團隊應有充足時間探索各種可能的路線，直到他們能夠自如地到達到「關鍵時刻」。然而，我們也要理解，未完成的路線、尚未決定的結果，以及對用戶行為的種種疑問，都是正常且可以接受的。
+
+
+![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Team-pizza-user-journey-1.jpeg)
+
+
+Image caption: A photo of a user journey written by ‘Team Pizza’ from the workshop. There are various sticky notes on a piece of large paper stuck to the wall in both English and Mandarin that describe a user's journey.
+
+
+![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Team-hotpot-user-journey-1.JPG)
+
+Image caption: A photo of a user persona and a user journey written by ‘Team Hotpot’ from the workshop. There is a basic icon drawn of a person alongside various written information in Mandarin about this persona and their journey.
+
+
+![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/blank-user-journey.png)
+
+Image caption: An image of the blank user journey template. The template includes a section at the top ‘Purpose’, the ‘Persona’ ‘The goal of the exercise’ and the ‘Scenario’ that is being user journey mapped. The template is separated into ‘touch points’ to describe the events of a time-period and then ‘What happened?’ ‘How did you feel?’ ‘How did you think?’ ‘What or who was involved?’
