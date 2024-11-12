@@ -12,5 +12,3 @@ Participants attending the workshops or hackathons might not have in-depth exper
 <p align="center">
   <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/mobile-phones-divider.png" />
 </p>
-
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/mobile-phones-divider.png)
