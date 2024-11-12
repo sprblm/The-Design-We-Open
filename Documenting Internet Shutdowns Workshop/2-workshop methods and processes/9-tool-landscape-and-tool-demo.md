@@ -9,4 +9,8 @@ Participants attending the workshops or hackathons might not have in-depth exper
 
 **“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.” - Pepperoni from Team Pizza**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/mobile-phones-divider.png" />
+</p>
+
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/mobile-phones-divider.png)
