@@ -19,9 +19,11 @@ Image caption: A photo of a user journey written by ‘Team Pizza’ from the wo
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Team-hotpot-user-journey-1.JPG)
 
+
 Image caption: A photo of a user persona and a user journey written by ‘Team Hotpot’ from the workshop. There is a basic icon drawn of a person alongside various written information in Mandarin about this persona and their journey.
 
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/blank-user-journey.png)
+
 
 Image caption: An image of the blank user journey template. The template includes a section at the top ‘Purpose’, the ‘Persona’ ‘The goal of the exercise’ and the ‘Scenario’ that is being user journey mapped. The template is separated into ‘touch points’ to describe the events of a time-period and then ‘What happened?’ ‘How did you feel?’ ‘How did you think?’ ‘What or who was involved?’
