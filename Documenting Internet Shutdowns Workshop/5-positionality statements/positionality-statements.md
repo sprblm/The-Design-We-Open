@@ -42,3 +42,6 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa, X and X
 **Cocoa:** I hope that Taiwan continues to be a relatively safer space for activists and people in general to fight on the right side of Internet freedom. I hope that the culture of design in tech and open source grows stronger and that there are more diverse communities participating in conferences such as COSCUP.
 
 **Basil:** I hope that people in Taiwan can embrace open-source software (OSS) with greater openness, instead of relying solely on commercial software due to a reluctance to learn. As for internet freedom, I hope that while defending it, people can also enhance their ability to discern misinformation and cherish the hard-earned freedom they enjoy.
+
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/bubble-tea-full-width.png)

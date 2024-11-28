@@ -4,3 +4,13 @@ This workshop’s (and the 2024 workshop) resources, content and illustrations h
 [Superbloom Design]([url](https://superbloom.design/)) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues]([url](https://github.com/sprblm/The-Design-We-Open/issues)), [creating/participating in discussions]([url](https://github.com/sprblm/The-Design-We-Open/discussions)) or making a [pull request]([url](https://github.com/sprblm/The-Design-We-Open/pulls)).
 
 Find our design documentation in our repository: https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/visuals-and-graphics.md 
+
+
+# Thank you
+
+Thank you to [COSCUP]([url](https://coscup.org/)) for hosting and being a supporter and advocate for design in their OSS event.
+Thank you to [Least Authority:Destiny]([url](https://leastauthority.com/community-matters/destiny/)), [Briar]([url](https://briarproject.org/)) and [NewNode]([url](https://www.newnode.com/)) for being open source software project examples in our internet shutdowns workshop.
+
+Thank you to the attendees, volunteers and supporters involved in these workshops.
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/notebooks-full-width.png)
