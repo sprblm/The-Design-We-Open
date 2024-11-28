@@ -1,8 +1,8 @@
-# Team Mojito Overview
-
 <p align="right">
-  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/mojito.png" height=100 width=20 />
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/mojito.png" height=100 width=50 />
 </p>
+
+# Team Mojito Overview
 
 A. **Scenario:** A Chinese computer engineer and civic journalist, whose investigative paper has drawn government scrutiny, faces imminent arrest. He must escape to another country to ensure his safety and that of his family.
 情境：一位中國電腦工程師兼公民記者，因其調查報告引起政府關注，面臨即將被逮捕的危險。他必須逃往另一個國家以確保自己和家人的安全。
