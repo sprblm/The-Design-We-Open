@@ -28,10 +28,8 @@ Designers are more commonly working in sectors that don't understand open source
 ## Recommendation #7 - Small-scale support for prototypes
 The technologists and coders in the workshop wanted to be able to spend time building or coding the solutions prototyped in the workshop and test whether or not they solved the problems they intended to. Offering small scale funding to build and test a prototype technology can help to build infrastructure for on-going involvement in developing OSS Internet Freedom technology, design in OSS Internet Freedom technology and supporting the post workshop enthusiasm beyond the moment.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/crowd-divider.png" height=100% width=50% />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/crowd-divider.png"/>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/crowd-divider.png" height=100% width=50% />
-</p>
+
