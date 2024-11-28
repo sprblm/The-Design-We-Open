@@ -44,5 +44,5 @@ _虛擬留言系統機：_ 使用一個安全的虛擬留言機，雙方同意�
 
 我們好奇什麼類型的信息可能是最敏感的。Mint指出，在政府鎮壓的情況下，幫政府工作的人可能是主要目標。重點不在於被監控的具體訊息，而在於某些職業自然會增加被針對的風險。
 
-
+!img [team mojito solution](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-mojito-solution-11%3A28.png)
 
