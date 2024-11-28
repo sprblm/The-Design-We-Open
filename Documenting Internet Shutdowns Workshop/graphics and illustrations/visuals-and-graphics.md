@@ -6,6 +6,7 @@
 In this folder you will find illustrations and graphics created in 2024 for the 2023 workshop learnings and outputs.
 
 
+
 ## How to use these graphics and illustrations
 
 TBC

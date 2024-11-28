@@ -10,6 +10,8 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa, X and X
 
 **Cocoa:** I have learnt a lot more about Taiwan and its Internet Freedom and OSS space during the workshops than before. My impressions of the country have mainly been about its strong semiconductor industry, progressive policies and threat from ROC. I have come to learn more about Taiwan’s complex need for Internet Freedom tech for various political and geographical reasons. I have come to learn of the resilience of its people, their capabilities and the ecosystem it offers to voice and develop innovative solutions.
 
+**Basil:** Taiwan currently enjoys a high degree of internet freedom. Unlike some countries, Taiwan does not impose strict regulations on online speech, and people have the freedom to choose how they use the internet. Additionally, internet penetration is very high across the country. Regarding open-source software (OSS), based on my observations, most people are still more accustomed to using paid software or operating systems. This may be due to the school environment, where students typically grow up using Microsoft software, and assignments are often submitted in formats like doc or xls.
+
 ## What history or personal interaction do you have with Taiwan, OSS and Internet Freedom?
 
 **Nutmeg:** As a British citizen, before doing these workshops, I distantly understood Taiwan within the context of historical British colonialism. My first direct experiences with Taiwan were directly related to open source software and an inclusive attitude towards design as part of how open source software is made better for users.
@@ -17,6 +19,9 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa, X and X
 **Soybean:** Honestly, I don’t know how to code, but with my social science background, I understand that the birth of technology relies on human collaboration, and designing technology requires the involvement of many people to meet the needs of different groups. When I first joined the g0v community, my favorite thing was observing how people used technology. This also influenced my choice to pursue a design career. The people here are generous, always willing to share how they use technology, along with data and source code, and they are also open to feedback on what they share. I love this spirit of openness and open source.
 
 **Cocoa:** While I have experience in OSS and design, I am relatively new to the Internet Freedom space in Taiwan. I approached this workshop as an opportunity to offer my design skills and design experience while learning more about Internet Freedom. I had already worked on a few open source projects mainly targeted for the South Asian context, at the time of joining the workshop. 
+
+**Basil:** In high school, I participated in a translation project for open-source software (OSS). Additionally, I have some experience using OSS and have recently been deeply involved in related workshops.
+
 
 ## What is your connection to workshop participants? Do you share any commonalities, identities, or experiences with workshop participants?
 
@@ -26,6 +31,7 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa, X and X
 
 **Cocoa:** I share commonalities of experiences with the workshop participants in a broader Asian context. There are a few common cultural and behavioral commonalities such as the work ethics driven by Indian and Taiwanese economies, cuisine etc... Apart from that I shared a common interest for Open Source and Design in tech, with many participants. 
 
+**Basil:** I personally believe in the importance of internet freedom, but I also think such freedom needs appropriate management. Taking Taiwan's current situation as an example, the lack of regulation may allow malicious actors to manipulate online discourse. Furthermore, even if the government does not impose internet restrictions, businesses might compromise internet freedom in pursuit of profit. I hope to promote internet freedom more deeply in Taiwan and help people understand that there are viable solutions available when facing internet restrictions.
 
 ## What are your hopes for Taiwan, OSS and Internet Freedom?
 
@@ -35,3 +41,4 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa, X and X
 
 **Cocoa:** I hope that Taiwan continues to be a relatively safer space for activists and people in general to fight on the right side of Internet freedom. I hope that the culture of design in tech and open source grows stronger and that there are more diverse communities participating in conferences such as COSCUP.
 
+**Basil:** I hope that people in Taiwan can embrace open-source software (OSS) with greater openness, instead of relying solely on commercial software due to a reluctance to learn. As for internet freedom, I hope that while defending it, people can also enhance their ability to discern misinformation and cherish the hard-earned freedom they enjoy.
