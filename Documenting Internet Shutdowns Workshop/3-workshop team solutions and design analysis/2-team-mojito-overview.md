@@ -1,7 +1,7 @@
 # Team Mojito Overview
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/mojito.png" />
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/mojito.png" height=100 width=20 />
 </p>
 
 A. **Scenario:** A Chinese computer engineer and civic journalist, whose investigative paper has drawn government scrutiny, faces imminent arrest. He must escape to another country to ensure his safety and that of his family.
