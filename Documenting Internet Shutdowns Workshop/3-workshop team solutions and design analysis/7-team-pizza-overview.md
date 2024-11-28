@@ -44,4 +44,6 @@ Interestingly, the members of this team we spoke to were interested because of t
 
 有趣的是，我們談到的這個團隊的成員對開源軟體、隱私、安全和網路中斷問題的感到興趣，並參加工作坊以在團隊的形式來探索這些想法。他們進一步回饋說，如果你不是隱私和安全方面的工程師或專家，在沒有這些知識和力量的情況下，討論和對這些主題提出意見或想法感覺「難以觸及」。值得注意的是，這個團隊的一名成員在工作坊後不久改變了他們的主修為工程，並開始了他們自己的開源專案。
 
-_“To disseminate the information anonymously, we wanted to recruit individuals to distribute the USB drives to strangers. This creates a chain of anonymous transmission, making it difficult to trace the original source. As the information spreads, individuals can add details or context, further obscuring the origin. But how do people trust each other enough to share the USB and know what to do with it?”_ **- Pepperoni from Team Pizza **
+_“To disseminate the information anonymously, we wanted to recruit individuals to distribute the USB drives to strangers. This creates a chain of anonymous transmission, making it difficult to trace the original source. As the information spreads, individuals can add details or context, further obscuring the origin. But how do people trust each other enough to share the USB and know what to do with it?”_ **- Pepperoni from Team Pizza**
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-pizza-solution-11%3A28.png)

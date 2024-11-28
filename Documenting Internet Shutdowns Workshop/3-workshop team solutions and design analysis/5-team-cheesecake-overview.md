@@ -46,3 +46,5 @@ The team considers journalists to be a trusted source of information and act as 
 團隊認為記者是可信賴的信息來源，作為公眾理解複雜社會問題的橋樑。記者提供對公眾應該關心的重要事物的見解，因此在告知人們最新發生的事情方面發揮著至關重要的作用，從而成為他們解決方案的關鍵部分。
 
 _“We explored leveraging LINE app's potential offline functionality. LINE is the dominant messaging app in Taiwan. LINE already has a news page called LINE Today. We wanted to utilize existing features and make important news available in critical locations, then release it through the convenience store kiosk machine for people to scan the QR code to gain the most updated information. (This function is not currently available at the convenience store nor in the LINE app). We also wanted to address the importance of authenticity in news sources. Particularly, the credibility of news sources in times of chaos.”_ **- Biscuit from Team Cheesecake**
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cheesecake-solution-11%3A28.png)
