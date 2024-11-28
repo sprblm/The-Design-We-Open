@@ -1,6 +1,6 @@
 # Team Mojito Overview
 
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/mojito.png" height=100 width=80 />
 </p>
 
