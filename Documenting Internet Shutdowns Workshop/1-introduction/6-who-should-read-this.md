@@ -9,4 +9,4 @@ This report is for anyone interested in human rights and internet freedom OSS de
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/COSCUP-stage-lights-set-up.jpg)
 
-Image caption: A photo of the main lecture hall at COSCUP’s venue. Some people are setting up a camera and a light umbrella and most of the seats are full with audience members. 
+_Image caption: A photo of the main lecture hall at COSCUP’s venue. Some people are setting up a camera and a light umbrella and most of the seats are full with audience members._

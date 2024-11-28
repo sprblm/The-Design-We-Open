@@ -11,4 +11,4 @@ For this workshop, it is important to have some different sectors and expertise 
 4. 網路自由、人權和反審查技術領域的專業設計師
 工作坊引導應由這些群體共同分擔，優先選擇能夠以吸引人和清晰方式帶領參與者的人。
 
-**“In the team, most people identified as engineers, one person had some design training but was not currently in a design job role. However, they ended up playing a key facilitation role between the engineer discussions and keeping the focus on the users.” - Sugar from Team Cake**
+_“In the team, most people identified as engineers, one person had some design training but was not currently in a design job role. However, they ended up playing a key facilitation role between the engineer discussions and keeping the focus on the users.”_ **- Sugar from Team Cake**

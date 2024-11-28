@@ -12,8 +12,10 @@ COSCUP 在台灣舉辦，提供了一個更中立或更積極的空間（地理�
 
 對於台灣人來說，深切感受到網路不穩定的影響，同時對個人隱私與安全存有高度的關注。他們清楚認知與中國共產黨的關係，並理解自然災害可能會影響其基礎設施，因此注重做好準備。根據我們在 COSCUP 舉辦工作坊的經驗，這些問題一直是許多參與者選擇設計解決方案的核心重點。
 
-**“Speculating on a ‘war situation’ we Taiwanese think that Taiwan would go through circumstances similar to the Russo-Ukrainian War with actual military intervention...China has already employed cognitive warfare strategy, through disinformation, military intimidation, and influence operations for many years.” - Biscuit from Team Cheesecake**
+_“Speculating on a ‘war situation’ we Taiwanese think that Taiwan would go through circumstances similar to the Russo-Ukrainian War with actual military intervention...China has already employed cognitive warfare strategy, through disinformation, military intimidation, and influence operations for many years.”_ **- Biscuit from Team Cheesecake**
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/coscup-2023.png)
 
-Image caption: A photo from COSCUP 2023 showing the poster of the event and the welcome desks. 
+_Image caption: A photo from COSCUP 2023 showing the poster of the event and the welcome desks._
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/bubble-tea-full-width.png) 

@@ -10,8 +10,8 @@ OSS 領域的從業者或貢獻者是工作坊的寶貴資產。他們可以：
 - 熟練操作 OSS 貢獻流程和工具
 - 指導新手使用 OSS 流程，如提交問題、創建分支、安裝和使用 OSS 項目等
 
-**“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.” - Pepperoni from Team Pizza**
+_“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.”_ **- Pepperoni from Team Pizza**
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-10.JPG)
 
-Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs.
+_Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs._

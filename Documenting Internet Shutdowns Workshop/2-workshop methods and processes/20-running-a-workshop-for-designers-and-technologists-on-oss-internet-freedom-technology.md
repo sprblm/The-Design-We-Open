@@ -8,4 +8,6 @@ We encourage you to use whatever resources and structures work for you and your 
 
 ![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-5.jpg?raw=true)
 
-Image caption: A photo from the workshop. In a classroom setting, Superbloom staff respond to a team’s ideas in an entire workshop discussion section. There were many people sitting in chairs or standing and listening.
+_Image caption: A photo from the workshop. In a classroom setting, Superbloom staff respond to a team’s ideas in an entire workshop discussion section. There were many people sitting in chairs or standing and listening._
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/food-full-width.png)

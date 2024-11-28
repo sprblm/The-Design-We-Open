@@ -13,4 +13,4 @@ These can be designers, technologists or people who have worked/volunteered in t
 2. 網路中斷關閉和訊息審查的應對策略
 這樣的專家組合能確保工作坊涵蓋理論和實踐，為參與者提供全面的學習體驗。
 
-**“I appreciated the civic and social focus of the workshop, which contrasts my day job where design must always be monetized for commercial purposes. The most educational part came from the feedback provided by the designers working in Internet Freedom and those with experiences of these complex  Human Rights issues. I found it valuable to directly see how different teams approached the same topic with unique processes and solutions.” - Mint from Team Mojito**
+_“I appreciated the civic and social focus of the workshop, which contrasts my day job where design must always be monetized for commercial purposes. The most educational part came from the feedback provided by the designers working in Internet Freedom and those with experiences of these complex  Human Rights issues. I found it valuable to directly see how different teams approached the same topic with unique processes and solutions.”_ **- Mint from Team Mojito**

@@ -27,4 +27,5 @@ Yet the barriers for designers and design practice to be normalized in Internet 
 
 **“The team found that the workshop format was effective in bridging the gap between technical and non-technical participants, showing the power of design processes in building and improving technology” - Sugar from Team Cake**
 
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/notebooks-full-width.png)
 

@@ -12,4 +12,4 @@ We try to encourage people to meet new people in these workshops which can be ef
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-11.JPG)
 
-Image caption: A photo from the workshop that shows the entire room. 5 groups of people are gathered at their own tables and are enthusiastically discussing the topic of ‘Personas’. There is a large projector screen at the front of the classroom and tall windows on the left. There are many laptops, notebooks and sticky notes on the tables.
+_Image caption: A photo from the workshop that shows the entire room. 5 groups of people are gathered at their own tables and are enthusiastically discussing the topic of ‘Personas’. There is a large projector screen at the front of the classroom and tall windows on the left. There are many laptops, notebooks and sticky notes on the tables._

@@ -18,4 +18,4 @@ This workshop can be attended by designers, coders, developers, technologists an
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/workshop%20slides/The%20Design%20We%20Open%20Workshop%202023/COSCUP%202023%20-%20The%20Design%20We%20Open%20-%20cover.jpg)
 
 
-Image caption: An image of the title slide from the workshop. The text reads “The Design We Open Workshop - 網路中斷黑客松”. There is an image of a femme person with long dark hair and dark clothes and a masc person in a white shirt. The femme person has a laptop open and they are both looking towards a large screen with a computer UI displayed on it. The wall behind the screen has many orange, yellow and pink sticky notes on it.
+_Image caption: An image of the title slide from the workshop. The text reads “The Design We Open Workshop - 網路中斷黑客松”. There is an image of a femme person with long dark hair and dark clothes and a masc person in a white shirt. The femme person has a laptop open and they are both looking towards a large screen with a computer UI displayed on it. The wall behind the screen has many orange, yellow and pink sticky notes on it._
