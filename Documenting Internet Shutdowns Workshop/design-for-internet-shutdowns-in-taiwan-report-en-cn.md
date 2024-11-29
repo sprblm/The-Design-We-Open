@@ -20,7 +20,7 @@ TBC
 
 ---
 
-Throughout this markdown text file you will find English written text and some sections with Mandarin translation afterwards. You can also find the [English only document here]() and the [English only markdown text file here](). The [Mandarin only document here]() and the [Mandarin only markdown text file here]().
+Throughout this markdown text file you will find English written text and some sections with Mandarin translation afterwards. You are on the [English and Mandarin markdown text file](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/design-for-internet-shutdowns-in-taiwan-report-en-cn.md). You can also find the [English only document here]() and the [English only markdown text file here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/design-for-internet-shutdowns-in-taiwan-report-en.md). The [Mandarin only document here]() and the [Mandarin only markdown text file here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/%E9%96%8B%E6%BA%90%E8%A8%AD%E8%A8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%8D%8D%E8%A1%9B%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E4%B8%AD%E6%96%B7%E8%8B%B1%E9%9B%84-cn.md).
 
 # Why Design and designers are important for Internet Freedom OSS / 為什麼設計和設計師對於網路自由 OSS 很重要
 
