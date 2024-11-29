@@ -71,18 +71,18 @@ Brushes in use:
 ![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-cover-art-used.png?raw=true)
 
 Stroke names ＆ Document brush settings: 
-![img]()
-![img]()
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-brush-settings-1.png?raw=true)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-brush-settings-2.png?raw=true)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-brush-settings-3.png?raw=true)
 
 ### Font names
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-font.png?raw=true)
 
 This hand-drawn font doesn't reference any existing fonts.
 
 
 ### Color(hex codes)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
 
 Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
 
@@ -92,22 +92,22 @@ Other colors: #34427C / #A2669D / #6490A4 / #517D91 / #CD523C / #65172D / #F7BFB
 ### Reference images
 
 [Image link](https://www.pinterest.com/pin/432064158012414988/)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-ref-art-1.png?raw=true)
 
 [Image link](https://uk.pinterest.com/pin/652951645988147197/)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-ref-art-2.png?raw=true)
 
 [Image link](https://www.pinterest.com/pin/9640586694481916/)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-ref-art-3.png?raw=true)
 
 [Image link](https://www.pinterest.com/pin/829506825149221459/)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-ref-art-4.png?raw=true)
 
 [Image link](https://www.pinterest.com/pin/341569953006919170/)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-ref-art-5.gif?raw=true)
 
 [Image link](https://vocus.cc/article/617fba71fd89780001674731)
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-ref-art-6.png?raw=true)
 
 ---
 
