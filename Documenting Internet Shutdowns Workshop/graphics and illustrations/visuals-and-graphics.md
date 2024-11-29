@@ -141,14 +141,16 @@ This design concept cleverly blends Taiwan's unique food culture and traditional
 [Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
 
 Brushes in use:
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-food-table-used.png?raw=true)
 
 Stroke names ＆ Document brush settings: 
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-table-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-table-brush-2.png?raw=true)
 
 
 ### Font names
-![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-font.png?raw=true)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-table-fonts.png?raw=true)
 
 This hand-drawn font doesn't reference any existing fonts.
 
