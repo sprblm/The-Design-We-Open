@@ -1,7 +1,7 @@
 # 開源設計工作坊-捍衛台灣網路中斷英雄
 ## 開源設計工作坊-捍衛台灣網路中斷無名英雄-計程車司機、衛星和科技
 
-![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/Large%20Splash%20Image-solution=11-28.jpg)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/Large%20Splash%20Image-solution-11-28.jpg)
 
 _Image caption: An image of four people, smartphones, technology devices. The people are in internet browser ‘frames’ with speech bubbles symbolizing discussion. A person is holding a Taiwanese vegetable bag ‘gaji bag’ 茄芷袋 and two are wearing good luck charms._
 
