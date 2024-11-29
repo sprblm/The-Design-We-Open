@@ -281,15 +281,6 @@ Other colors: #203A6B / #F5CBBE / #D2B1A8 / #E0BB79 / #DC9B47 / #D2B1A8
 
 ![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-pizza-solution-11-28.png?raw=true)
 
-
-### Design philosophy
-
-This design draws inspiration from the iconic Taiwanese taxi drivers, capturing the essence of the city's vibrant street culture through intricate details:
-
-1. [The Taxi Driver](https://www.businesstoday.com.tw/article/category/80392/post/201107280015/): Dressed in the classic red jacket, a signature look of Taiwanese taxi drivers.
-2. Interior Decorations: Inside the taxi, a statue of Taiwan’s deity, [the God of Wealth](https://zh.wikipedia.org/zh-tw/%E8%B2%A1%E7%A5%9E), sits on display, representing blessings for safe travels and prosperity. [Hanging gold ingot](https://9999k.com.tw/%E9%8A%80%E9%A3%BE%E7%9F%A5%E8%AD%98/2780.html) charms further enhance the theme of good fortune and financial success. 
-3. Traditional Taxi Equipment: The taxi is equipped with a [dispatch machine](https://www.supamoto.com.tw/products/-supamoto-%E5%A4%A7%E8%81%B2%E5%85%AC-%E5%96%87%E5%8F%AD-%E5%96%8A%E8%A9%B1-%E6%93%B4%E9%9F%B3-%E8%AD%A6%E8%BB%8A-%E6%95%91%E8%AD%B7%E8%BB%8A-%E8%AD%A6%E7%AC%9B-%E6%B0%A3%E7%AC%9B-%E8%9D%B8%E7%89%9B-%E8%AD%A6%E5%A0%B1-%E6%95%91%E9%9B%A3-%E6%B1%BD%E7%AC%9B-%E5%85%AD%E9%9F%B3-6%E9%9F%B3) that displays real-time job assignments and a radio system for remote communication.
-
 ### Document brush settings
 
 ![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
@@ -344,6 +335,82 @@ Other colors: #293E74 / #394E87 / #F0C8BC / #CEAFA7
 ---
 
 
+## Graphic #5: Team Cake’s Protest Scenario
 
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/team-cake-solution-sketch.png?raw=true)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cake-solution-11-29.png?raw=true)
+
+
+### Design philosophy:
+
+This design draws inspiration from key moments in Taiwan's protest history, reflecting the core values of democracy and freedom:
+
+1. [Sunflower Movement](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B): The movement started as a response to the rushed approval of the Cross-Strait Service Trade Agreement, which protesters believed would harm Taiwan’s economy and increase China’s political influence. The movement also called for better democratic procedures and opposed unfair trade practices.
+2. [Liberty Square](https://en.wikipedia.org/wiki/Liberty_Square_(Taipei)): Located at the Chiang Kai-shek Memorial Hall in Taipei, Liberty Square symbolizes Taiwan’s shift from dictatorship to democracy, ending the KMT's long one-party rule. It has been a central gathering place for protests, where people express their fight for freedom and human rights.
+
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-protest-cake-used.png?raw=true)
+
+Stroke names ＆ Document brush settings: 
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-brush-2.png?raw=true)
+
+
+### Font names
+
+- Apple LiGothic Medium
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-fonts-1.png?raw=true)
+
+This hand-drawn font doesn't reference any existing fonts (Based on the design of Taiwan's 1,000-dollar bill).
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-fonts-2.png?raw=true)
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / 264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #293E74 / #F2BCAE / #BC4F3C / #63162C / #5C8496 / #F9CDC0
+
+### Reference images
+
+[Image link](https://www.pinterest.com/pin/236790892901732942/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-1.jpg?raw=true)
+
+[Image link](https://ios20.asdc.tw/e4_wildberries/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-2.jpg?raw=true)
+
+[Image link](https://digiphoto.techbang.com/posts/6242-from-sunflower-talking-about-photography)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-3.jpg?raw=true)
+
+[Image link](https://www.upmedia.mg/news_info.php?Type=24&SerialNo=160805)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-4.jpg?raw=true)
+
+[Image link](https://news.ltn.com.tw/news/politics/breakingnews/4611924)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-5.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/466967055119973637/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-6.jpg?raw=true)
+
+[Image link](https://www.alamy.com/new-taipei-city-red-highlighted-in-map-of-taiwan-image340428711.html?imageid=3A4D7EF4-21BE-4E0E-8461-BF1EEC9E130F&p=347647&pn=1&searchId=758019dfc18ea8ec4476bbe4d574c887&searchtype=0)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/protest-cake-art-7.jpg?raw=true)
+
+---
 
 
