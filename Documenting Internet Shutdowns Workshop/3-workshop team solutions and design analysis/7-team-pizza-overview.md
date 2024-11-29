@@ -46,4 +46,4 @@ Interestingly, the members of this team we spoke to were interested because of t
 
 _“To disseminate the information anonymously, we wanted to recruit individuals to distribute the USB drives to strangers. This creates a chain of anonymous transmission, making it difficult to trace the original source. As the information spreads, individuals can add details or context, further obscuring the origin. But how do people trust each other enough to share the USB and know what to do with it?”_ **- Pepperoni from Team Pizza**
 
-![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-pizza-solution-11%3A28.png)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-pizza-solution-11-28.png?raw=true)

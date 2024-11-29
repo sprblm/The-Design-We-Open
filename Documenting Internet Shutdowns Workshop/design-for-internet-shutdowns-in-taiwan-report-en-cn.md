@@ -537,10 +537,416 @@ _Image caption: A photo from the workshop. In a classroom setting, Superbloom st
 
 ---
 
+# Workshop team solutions and designer analysis / 車間團隊解決方案及設計師分析
+
+This next chapter covers each team's process and contributions to the workshop, along with insight from the designers at Superbloom who have knowledge in design, Internet Freedom technology and Open Source Software.
+
+下一章將介紹每個團隊的流程和對研討會的貢獻，以及具有設計、網路自由技術和開源軟體知識的 Superbloom 設計師的見解。
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/team%20Food%20Name-solution-11-28.png?raw=true)
+
+---
+
+# Team Mojito Overview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/mojito.png" height=100 width=80 />
+</p>
+
+A. **Scenario:** A Chinese computer engineer and civic journalist, whose investigative paper has drawn government scrutiny, faces imminent arrest. He must escape to another country to ensure his safety and that of his family.
+
+**情境：** 一位中國電腦工程師兼公民記者，因其調查報告引起政府關注，面臨即將被逮捕的危險。他必須逃往另一個國家以確保自己和家人的安全。
+
+B. **Persona:** An academic user persona - Computer Engineer and Civic Journalist. Team Mojito chose this persona because they read about a similar case in the news. The familiarity helped them relate to the person's situation better.
+
+**角色：** 一位電腦工程師兼公民記者。Mojito團隊選擇這個角色是因為他們在新聞中讀到過類似的案例。這種熟悉感幫助他們更好地理解這個人的處境。
+
+C. **Context:** The journalist%E2%80%99s paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
+
+**背景：** 這位記者的報告揭露了敏感的政府資訊，引發了抗議和動亂。他必須試圖安全地逃離國家，獲取旅行證件，並為自己和親人安排安全通道。由於他不能使用常規和一般的交通方式，他需要找到一種通過陸路越境的方法。在他的逃亡中，他無法使用網路，必須謹慎行事以保持隱私，隱藏自己的行蹤和身份。
+
+D. **Goal:** To escape and secure a safe and discreet exit from the country for himself and his family.
+
+**目標：** 為自己和家人逃離並確保安全和謹慎地離開出境。
+
+E. **Solution finding:** The team explored and evaluated the need for multiple tech solutions to bring this persona to succeed. He would need a method to communicate with his trusted sources and contacts. He would need some safe houses or checkpoints to break his journey. And he would need to be out of sight of authorities and the army.
+ 
+Since this case is not a common occurrence, building specific technologies for this persona may not be feasible, hence he needs to use already existing tools, technologies and methods to plan his escape. As a result of the user journey mapping and brainstorming, the team Mojito came up with the following ideas:
+
+_Offline connectivity in Taiwan:_ Establish a local network using devices connected via a Wi-Fi router. When the internet is cut off, the network automatically switches to mesh mode, enabling continued communication and connectivity among devices.
+
+_Escape documentation and safety navigation:_ In an escape situation, use a hiking app in offline mode that has radar functionality. This app allows users to request updates from others about safe locations verified by NGOs(more neutral entities), helping navigate to secure areas. 
+
+_Virtual message box system:_ Use a secure virtual message box where both parties agree on a long code. To communicate, each person places a message in the box, which can only be accessed and read by entering the agreed code. 
+While these are all great ways to think about the solution, this needs further development in terms of how to stay connected in remote areas i.e. how does the mesh network enable connectivity when there are lesser devices available in the region. The solution also raised questions about who the team considered to be the ideal authority to ensure the security of the messages? Responses from the team members varied, while some suggested politicians they trust, others recommended NGOs for their credibility. 
+
+We were curious about what types of information might be the most sensitive. Mint noted that in a scenario of government repression, individuals employed by the government would likely be the primary targets. The focus is not on the specific information being monitored but on how certain professions naturally increase the risk of being targeted.
+
+**解決方案：** 團隊評估了多種技術解決方案，這位逃亡者需要一種與安全訊息通信的方法。他需要一些安全的地點或躲避所來作為逃亡的過濟站。他還需要避開當局和線民的視線。由於這種情況並不常見，為這個角色建立特定的科技技術可能不太可行，因此他需要使用已有的工具、技術和方法來計劃逃跑。通過使用者旅程和腦力激盪，Mojito團隊提出了以下想法。
+
+_台灣的網路中斷連線：_ 建立一個使用通過Wi-Fi連接器連接設備的本地網絡。當網路被切斷時，網路自動切換到網狀模式，使設備之間能夠繼續通訊和連線。
+
+_逃亡文件和安全導航：_ 在逃亡情況下，使用具有雷達功能的離線模式的登山應用程式。這個應用程式允許用戶或其他人向由非政府組織（更中立的機構）發射出關於安全位置的更新的驗證訊息，幫助導航到安全區域。
+
+_虛擬留言系統機：_ 使用一個安全的虛擬留言機，雙方同意一個長的代碼。為了通訊，每個人在機器裡放一則訊息，只有輸入約定的代碼才能進入和看訊息。
+雖然這些都是思考解決方案的好方法，但在偏遠地區如何保持連接方面還需要進一步的研究，即當該地區可用設備較少時，網狀網絡如何實際連線。該解決方案還引發了關於團隊認為誰是確保訊息安全的理想官方的問題。團隊成員的回答不盡相同，有些人建議他們信任的政治家，其他人則推薦非盈利組織，因為它們更可信。
+
+我們好奇什麼類型的信息可能是最敏感的。Mint指出，在政府鎮壓的情況下，幫政府工作的人可能是主要目標。重點不在於被監控的具體訊息，而在於某些職業自然會增加被針對的風險。
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-mojito-solution-11-28.png?raw=true)
+
+---
+
+# Team Hotpot Overview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/hotpot.png" height=90 width=120 />
+</p>
+
+A. **Scenario:** This team was focused on emergency communication tools in disaster scenarios where the internet is failing due to environmental destruction or heavy weather conditions. This scenario was chosen as it is a common occurrence in Taiwan due to the prevalence of Typhoons, landslides and other weather related crises as well as mountain climbing being a common activity.
+
+**情境：** 這個團隊專注於在因環境破壞或惡劣天氣導致網路中斷的災難情況下的緊急通訊工具。選擇這個場景是因為在台灣,由於颱風、土石流和其他天氣相關危機頻繁發生,以及登山活動的普及,這是種很常見的情況。
+
+B. **User persona:** The persona they focused on was a professional adult, climbing hobbyist who, until this disaster scenario, had not thought or prepared for a lack of communication. In this exploration the general critical user type is explored, the unprepared, regular citizen who by circumstance has been ‘pushed’ into communication cut off and is struggling with what to do.
+
+**角色：** 他們聚焦的角色是一位專業成年人，爬山愛好者，在這個災難情境發生之前，從未考慮或準備過通訊中斷的情況。在這次討論中，我們討論了一般的關鍵使用者類型，在發展使用者旅程的過程中，討論的一般關鍵用戶是未做準備的普通民眾，他們因環境而被「推進」通訊中斷的情況，並在對外聯繫上遇到困難。
+
+C. **Context:** The team members found that this was a user persona as well as a scenario where they could explore the topics of restricted communication, harm to people around them and decision making around what to communicate, when and to what best effect for more than one person. The topic of war-like or an international or national %E2%80%98internet shutdown%E2%80%99 was discussed in this team, but the safer option that explored similar themes was the natural disaster scenario and allowed the team to speak freely, unburdened by sensitive politics.
+
+**背景：** 團隊成員發現這不僅是一個使用者角色，也是一個可以探索受限通訊、周圍人員受傷以及決策如何、何時、以何種方式最有效地為多人聯繫通訊的情境。團隊討論了戰爭般或國際性/全國性「網路中斷」的話題的可能性，但更安全的選擇是探討類似主題的自然天災的情境，這讓團隊能夠自由發言，不受敏感政治話題的束縛。
+
+D. **Goal:** To use available technology when in a remote/rural location with limited internet connectivity, to contact or 'send a signal' (primarily location data) in order to coordinate rescue and/or sending new location information to those without connectivity.
+
+**目標：** 在偏遠/鄉下地區網路連接有限的情況下，利用可用的技術聯繫或「發送信號」（主要是位置數據），以協調救援和/或向無連線的人發送新的位置的訊息。
+
+E. **Solution finding:** The team discussed the use of hiking apps, Bluetooth, mesh networks and a known tool called Sigfox for maintaining connectivity in remote, mountain areas and also for potential urban, city settings. It isn’t common for teams exploring design ideas to come with an established idea of what technology to use as part of the scenario solution, these technologies were often brought into the team discussions by those who self-described as engineers or coders. In itself, mentioning or suggesting technologies doesn’t ‘pollute’ the design exploration at large, as the users, journeys and needs for technology solutions are still maintained in the process, but early suggestions can affect and bias the decisions the teams make. Here though, the purpose of mentioning this tech was that it was being investigated in the local tech communities in Taiwan. The ideal scenario for the teams solution was that, through a combination of a ‘back-up weak connection (either via bluetooth mesh or Sigfox) that a hiking mobile app (possibly connected to LINE, with information inputted in offline) could ‘ping’ a location of the climbers in order to either then receive or send a ‘packet’ of information of their location and status.
+
+This led the team to discuss the importance of localizing technology to fit specific user interface expectations and needs, such as integrating with popular apps like Line, and chat functions in Taiwan. The team considers the challenges of privacy and trust in government-created technology, and the role of citizen awareness and localized solutions in ensuring the effectiveness of these tools. The trust in government administered and maintained technologies relied heavily on what government department undertook that responsibility, given that some departments were trusted more than others. Examples of this shaky trust surfaced in conversations about potential overseas surveillance cameras being bought from a Chinese owned manufacturing company as well as the digital Taiwanese citizenship cards that were resisted against.
+
+The biggest discovery this team made as they developed their persona was around the importance of accessible and well designed training and usable technology for regular citizens. Citing that most tools that facilitate communication not using the standard internet are difficult, confusing and require a considered training approach for regular citizens.
+
+**解決方案：** 團隊討論了使用登山程式、藍牙、無線Mesh網路,以及一種名為Sigfox 0G (Zero-G) technology 的已知工具,以在偏遠山區和可能的城市環境中保持連接。團隊通常不會預先有使用特定技術作為解決方案的想法,這些偏技術的解決方案通常是由工程師背景的成員在團隊討論中提出的。單純提及或建議技術某個特定技術本身並不會「玷污」整體的探索過程,其使用者旅程、設計思考和對技術解決方案仍然保持在過程中,但早期的建議可能會影響並對結果有所偏頗。在這裡,提到這些技術的目的是因為它們正在台灣當地的科技社群中被研究。團隊解決方案的理想情況是,通過結合網路連線較弱的通訊方式(通過藍牙網狀網路或Sigfox),登山手機應用程式(可能與LINE連接,離線輸入資訊)可以「ping」登山者的位置,以便接收或發送他們的位置和狀態的「資訊包」)。
+
+這讓團隊衍伸出了重要的討論，將技術在地化以因應本地人對用戶界面的特定期望和需求。例如在台灣整合普遍的應用程式如Line的聊天功能。團隊討論了政府開發的App中在面對隱私安全方面的挑戰,以及民眾對政府開發的App的認識和介面的在地化，都需要被解決以確保這些在工具在操作上的實用性。取決於哪個政黨執政會影響對政府開發的App的信任度,因為有些政黨比其他政黨更受信任。這種不穩定的信任在從中國製造公司購買監控攝影機,以及遭到抵制的台灣數位身份證的討論中可見一般。隨著團隊發展他們的persona,他們最大的心得是為一般民眾打造使用者友善設計介面的重要性。他們指出,大多數政府開發的App都很難使用,還需要訓練民眾如何使用。
+
+_“Generally Taiwanese citizens trust government-issued apps. Taiwan's V-Watch during the COVID-19 pandemic was an example. It integrated with the popular messaging app LINE, to collect vaccination data and connect the government with the local population. In emergency response situations, trust between the Taiwanese government and the public remains relatively high. However, on the topic of surveillance technology, the team were concerned with who manufactures it. If it’s made in China, there is a risk that these cameras could be used for surveillance.”_ **- Taro from Team Hotpot**
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-hotpot-solution-11-28.png?raw=true)
+
+---
+
+# Team Cake Overview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/cake.png" height=90 width=120 />
+</p>
+
+A. **Scenario:** There's been a protest that the government is attempting to stop.
+
+**情境:** 政府正試圖阻止一場示威遊行
+
+B. **Persona:** Journalist/Citizen journalism
+
+**角色：** 記者/公民記者
+
+C. **Context:** This team focused on events similar to the Umbrella Movement. At the beginning of the protest scenario, our journalist/citizen journalist arrives at the scene, ready to report on the unfolding events. The atmosphere is tense as demonstrators gather, with the government threatening to shut down internet access to quell the protest. As our protagonist prepares to document the situation, they're suddenly faced with a communication blackout as the internet goes out. They need to be able to collect and share information without  being tracked.
+
+**背景：** 團隊專注於類似雨傘運動的事件。在示威遊行開始時，我們的記者/公民記者抵達現場，準備報導正在發生的事件。當示威者聚集時，氣氛十分緊張，政府威脅要切斷網路以阻止示威遊行。當我們的主角準備記錄情況時，他們突然面臨通訊中斷，因為網路被切斷了。他們需要能夠在不被發現的情況下收集和分享信息。
+
+D. **Goal:** Successfully communicate with each other to gather for protest in the midst of internet shutdown. The journalist needs to be able to collect accurate information and inform as many people as possible.
+
+**目標：** 在網路中斷的情況下成功的溝通，以集結抗議。他們需要能夠收集準確的信息並傳送盡可能更多的消息給其他人。
+
+E. **Solution finding:** Team started their design journey by picking a protest scenario first, followed by selecting the journalist/citizen journalist persona. In the middle of the chaos of protest, our journalist must quickly adapt to this new challenge. They realize the critical need to share vital information such as media files, contacts, messages along with information about protest meeting locations and police movements, but traditional communication channels are no longer available. This is where they begin to explore alternative methods of information sharing, tapping into technologies like FireChat, NFC, Bluetooth, and fingerprint authentication. NFC and bluetooth are tech developments that a person naturally gravitates towards when considering no internet scenarios. But also the team structure had more engineers over designers which also indicates why the solution is tech-first. A vital moment in the journey of the user when they need to use this solution the most is when the police arrive to break apart the protest and people need to find a way to evade them so they share information such as the police location, safe protest places or any other information in their phone etc… Therefore, this team considered a solution where they could bump their phone against another person thereby transferring a packet of information. While it is an interesting idea because of the ease of use in a crowded setting and ensuring they send the information to the specific trusted person, it still raises questions about what if the phone is bumped into the wrong person in a chaotic setting or concerns of ensuring that there’s no spread of misinformation. This led to discussions about finding the right, trusted authority who would be the source of the information. The journalist works with fellow protesters to establish a decentralized network, allowing them to pass verified information securely without relying on internet connectivity.
+
+In a different line of thought to make their solution reach more people, the team would have preferred if there was a way to use existing lines of communication such as the Line app itself for such a scenario and purpose. If Line app could introduce offline capabilities, that would make it easier because people are already used to the app. 
+
+During solutions thinking it is often easy to go in various directions, sometimes unproductively and so it is important to keep the user and their journey in mind at all times. Sugar recounted the same happening in their group where she being the only one related to the design field used the design journey to align the group and their solution around the user. 
+
+**解決方案：** 團隊首先選擇了一個示威遊行的情境，然後選擇了記者/公民記者的角色。在示威遊行的混亂中，我們的記者在短時間內了解這個新的狀況：在斷網中，需要傳送訊息、文件、影音、聯絡人資訊等以及有關抗議集會地點和警察動向的關鍵需求，但傳統的通訊渠道已不再可用。Cake團隊想到可利用FireChat、NFC、藍牙和指紋認證等技術。NFC和藍牙是人們在考慮無網絡情況時自然會想到的技術發展。但同時，團隊結構中工程師多於設計師，這也是為什麼解決方案是以技術為主。在用戶最需要使用此解決方案的關鍵時刻是當警察到達驅散示威時，人們需要找到方法躲避他們，所以他們會分享諸如警察位置、安全示威地點或手機中的任何其他信息等。
+
+另外的解決方案，可以將手機碰撞到另一個人的手機上，從而傳輸一則訊息。這個方案，適合在擁擠的環境中使用，並確保他們將信息發送給特定的人，但它仍然還有一些問題，像是如果在混亂的環境中手機碰到了不對的人，或者怎麼確保信息的正確信。這讓他們有對可信的訊息來源做更近一步的討論。記者與其他示威者合作建立一個去中心化的網絡，允許他們在不依賴網路的情況下安全地傳遞經過驗證的信息。
+
+在另一個方案中，為了讓他們的解決方案觸及更多人，團隊希望能夠在這種情況使用台灣人已經慣用的app，如Line本身。如果Line能夠引入離線功能，使用上將會對台灣的民眾更加的便利及順手也會增加普及度。
+
+在思考解決方案時，往往容易朝各個方向發展，有時甚至會偏離正軌，因此始終牢記用戶及其歷程至關重要。Sugar 回憶起他們小組也發生了同樣的情況，作為唯一一個與設計領域相關的成員，她運用設計歷程來調整小組方向，並使解決方案圍繞用戶展開。
+
+_“As a team we wanted to understand how existing technologies (FireChat, NFC, Bluetooth, Fingerprint authentication) could be developed into solutions for the Internet Freedom scenarios and what needed improving.”_ **- Sugar from Team Cake**
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cake-solution-11-29.png?raw=true)
+
+---
+
+# Team Cheesecake Overview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/cheesecake.png" height=90 width=120 />
+</p>
+
+A. **Scenario:** War-like situation in Taiwan. This team chose this situation because of the topic of the workshop and the tense political relations with CCP and the constant looming threat Taiwanese face about such a possibility of being attacked by CCP.
+
+**情境：** 台灣面臨類似戰爭的情況。團隊選擇這個情境是因為工作坊的名字以及與中國緊張的政治關係，以及台灣人面臨的持續威脅的可能性。
+
+B. **Persona:** Journalist. The team thought they could understand and relate to the journalist more and it would be harder to imagine what the activist would need. This does highlight the basic approach of design thinking which is to be able to empathize with the users.
+
+**角色：** 記者。團隊認為他們能比較理解和認同記者，而是面對其他像是社運的需求會比較困難。這突顯了設計思考的基本，能夠與用戶產生連結。
+
+C. **Context:** CCP deploys military aircraft over Taiwan disrupting the internet and communications by destroying the infrastructure or blocking the signals, leaving citizens without access to news updates. Our journalist wakes up to the sound of military aircraft flying overhead. Turning on the TV, they learn that the CCP has deployed military aircraft over Taiwan, causing widespread panic. As the journalist tries to check online news sources, they realize that internet connectivity is becoming increasingly unstable. Feeling a mix of confusion and determination, they head to the news agency's office and on the way notice people on the streets looking anxious and confused, many frantically trying to use their smartphones without success. At the office, the journalist and their colleagues face a grim reality: the internet is completely down, and traditional communication channels are disrupted. They realize they need to find alternative ways to gather and disseminate crucial information to the public.
+
+**背景：** 中共在台灣上空部署軍用飛機，通過破壞基礎設施或阻斷信號來干擾網路和通信，使民眾無法獲取資訊。
+我們的記者被頭頂上飛過的軍用飛機聲驚醒。打開電視，他們得知中共已在台灣上空部署軍用飛機，引起廣泛恐慌。當記者試圖查看線上新聞時，他們意識到網路連線變得越來越不穩定。帶著困惑，他們前往新聞台的辦公室，途中注意到街上的人看起來焦慮和迷茫。在辦公室，記者和同事們面臨嚴峻的現實：網路完全中斷，傳統的通信渠道被干擾。他們意識到需要找到替代方案來收集和傳播關鍵資訊給民眾。
+
+D. **Goal:** The journalist would want to send the correct information for the public to follow. The message is about the CCP attacking Taiwan and because the communication was shut down, there is no way to know. The other goal is to enable people to communicate with each other in a war-like scenario.
+
+**目標：** 記者想要向民眾發送正確的信息。訊息是關於中共攻擊台灣，由於通信被切斷，沒有辦法知道具體情況。 另一個目標是使人們能夠在戰爭般的情境中相互溝通。
+
+E. **Solution finding:** Since people are always connected to the internet at all times, disruption even for a little while can cause people to panic. Team Cheesecake thought about a similar situation where people who might be on their way somewhere in metros etc… would want to know what happened to the internet. With traditional methods unavailable, the team came up with the following solutions to leverage existing infrastructure and local community networks:
+
+1. District leaders: Each district in Taiwan also has people(sort of a district leader) who are related to the government and take care of the common matters for the public. People could reach out to the district leader to get the right information. These district leaders are a part of many team’s solutions because they are an important and prominent part of the social structure. This also makes the solution localized to the Taiwanese region. The journalists will also go to the district leaders to get the information and relay it to the public. Since there is no internet, there needs to be an additional reliance on physical locations for the solutions. 
+
+2. Kiosk machines: Convenience stores become hubs of information, with people gathering to read the latest updates on the bulletin boards.
+
+3. Line app: Everyone in Taiwan has the Line app and there’s a news section(Line Today) on the app. There could be a possibility to collaborate with them to make that feature offline, or users could be allowed to receive updates by scanning QR codes at convenience store kiosks. This is where this team found interesting intersections in their ideas in an attempt to make the solutions robust.
+
+4. Youbike: While thinking of other prevalent systems in Taiwan the team also thought of using the youbike screens to flash short important messages to the public. Since there are several youbike spots across Taiwan, it can be an innovative use of city infrastructure under dire need.
+
+The team considers journalists to be a trusted source of information and act as a bridge for the public to understand the complex social issues. Journalists offer insights on the important things that the public should care about hence they play a crucial role in informing people about the latest happenings thereby making them a critical part of their solution. 
+
+**解決方案:** 由於人們總是連接到網路，即使短暫的中斷也會導致人們恐慌。Team Cheesecake考慮了類似的情況，比如在地鐵等地方的人可能想知道網路怎麼了。在傳統方法不能用的情況下，團隊提出了以下解決方案，利用現有基礎設施和本地社區網絡：
+
+1. 里長：台灣地區每個里都會有里長，負責處理公共事務。人們可以聯繫理長獲取正確資訊。里長是許多團隊都有提到的解決方案，因為他們是台灣社會結構中重要的元素。記者也會去找里長獲取資訊並轉達給公眾。由於沒有網路，解決方法需要依賴更多實體地點。
+
+2. Kiosk：便利商店成為資訊中心，人們聚集在公告欄上閱讀最新的資訊。
+
+3. Line APP：台灣每個人都有Line，APP中有新聞部分（Line Today）。可以考慮與他們合作使該功能離線使用，或允許用戶通過掃描便利商店的QR Code接收最新的新聞。這是團隊在研究解決方案時發現的有趣的點。
+
+4. Youbike：在思考台灣其他普及系統時，團隊還想到使用Youbike上的螢幕向民眾顯示簡短重要信息。由於台灣各地都有幾個Youbike點，在緊急需要時可以有創意的利用城市基礎設施。
+團隊認為記者是可信賴的信息來源，作為公眾理解複雜社會問題的橋樑。記者提供對公眾應該關心的重要事物的見解，因此在告知人們最新發生的事情方面發揮著至關重要的作用，從而成為他們解決方案的關鍵部分。
+
+_“We explored leveraging LINE app's potential offline functionality. LINE is the dominant messaging app in Taiwan. LINE already has a news page called LINE Today. We wanted to utilize existing features and make important news available in critical locations, then release it through the convenience store kiosk machine for people to scan the QR code to gain the most updated information. (This function is not currently available at the convenience store nor in the LINE app). We also wanted to address the importance of authenticity in news sources. Particularly, the credibility of news sources in times of chaos.”_ **- Biscuit from Team Cheesecake**
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cheesecake-solution-11-29.png?raw=true)
+
+---
+
+# Team Japanese Curry Overview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/japanese-curry.png" height=90 width=120 />
+</p>
 
 
+A. **Scenario:** This team focussed initially on the aspect of internet shutdown sparked by a 'war' like conflict scenario, as a location based phenomena. Meaning that, as well as starting with a persona type, they also focused on the fact that when an internet shutdown occurs, what goes missing is the ability to communicate across significant physical distances. The internet enables us to, with a stable connection, speak to anyone that we have a method of contact for, anywhere that they may be provided they have connection and at any time provided they are able to check their devices/communication methods.
+
+**情境：** 這個團隊最初關注的是由「戰爭」類衝突引發的網路中斷情境，以地點為基準的現象。也就是說，除了從角色開始，他們關注當網路中斷發生時，失去的是跨越實際距離進行通訊的能力。網路能讓我們能夠在連線穩定的情況下，與我們有聯繫方式的任何人交談，無論他們在何處，只要他們有連線，而且在任何時候，只要他們能夠檢視他們的設訊通訊。
+
+B. **Persona:** Wangxiaming a taxi driver in his late 50s without too much tech knowledge in the face of war.
+
+**角色：** 王小明，一位年近50歲的計程車司機，在遭逢戰爭時對科技知識了解不多。
+
+C. **Context:** As the team focused their explorations on access and mobility potential and the behaviors associated with transit/taxi drivers they then began to explore the social motivations, communication patterns/access, preparation work and finally, the difficult subject of trust and verification. This surfaced from inquiry around critical information being moved by individuals that might have their own agendas or views on the social issue causing the internet shutdown.
+
+**背景：** 隨著團隊將研究重點放在交通和流動力以及與公共交通/計程車司機相關的行為上，他們開始探討關於通勤流動/計程車司機的社會動機的準備工作，最後是對信任訊息和驗證訊息的困難主題。這源於對重點資訊被可能有自己想法或對網路中斷的社會議題有自己看法的人所影響。
+
+D. **Goal:** There are certain people that have local, non-internet connections and communications and city-wide mobility (e.g. Taxi drivers and truck drivers). How can these methods be leveraged in an internet shutdown scenario.
+
+**目標：**  有些人擁有當地的非網路連線和通訊方式，以及具城市級的流動性（例如計程車司機和卡車司機）。在網路中斷的情況下，如何利用這些方法。
+
+E. **Solution finding:** The focus of their explorations therefore became centred on the need of mobility and consistent movement throughout a location (city or district) and what kinds of people do this activity already surfaced the critical user persona of a transit driver or a taxi driver. These citizens also can have access to alternative methods of communication that do not always rely on internet connectivity, such as closed networks of  walkie-talkies and radio communications.
+
+The team had a number of areas they could have focused an OSS technology intervention on, including:
+- How do we recognise critical citizens before a crisis that leads to an internet shutdown (e.g. taxi drivers) and prepare them ahead of that crisis to locate, verify and disseminate information.
+- How do people verify and trust information, what are their methods of critical deduction when it comes to information that preserves lives. 
+- Similarly, how does information spread both naturally and when more engineered? How can this make its way to people that are not as technologically adept. 
+- Once correctly informed and safe, what do citizens then do? What are the next steps in safety, returning to normal life or what are the likely next steps for citizens post crisis.
+
+There was also a concern that taxi drivers may be generous enough to move messages around in limited circumstances or times they care about the issues but ultimately they are sacrificing income to do a messenger role and perhaps they would need some payment for this.
+A large general realization among the designers and technologists participating was that in an internet shutdown, typical technology that most people are comfortable using no longer functions at all or as intended. They quickly realized that technology that doesn’t rely on internet connectivity might be older, more complicated to set up and use and less instant. Which led to a shift in users that are not ordinarily the focus of. 
+
+Upon further discussion with the team members, we discovered that there are many detailed and nuanced aspects that only get lightly mentioned in a 1 day workshop around internet shutdown technologies. One topic was whether or not there are topics that the demographic user of ‘transit/taxi driver’ would refuse to spread, such as issues more connected to younger people like feminist issues, women’s rights and political beliefs and alignment. A potential solution to this though was ‘locked’ information so the drivers did not know the contents of the message. This was also risky for them though given concern over ‘illegal’ information.
+
+From Superbloom’s design expert perspective this group discovered a user persona that is underserved in the OSS internet shutdowns prevention technology. Personas which do not automatically self-align with technology and/or information or news spreading are rare in this sector. The focus on the pre-crisis phase, sometimes described as the ‘training phase’ also tends to underserved these kinds of citizens and typically it is hard to engage those not technologically curious in prevention and resilience technology. The use of technologies such as bluetooth (for sharing information/files), walkie talkie applications, radios and paper based couriered messages while astute also reveals that more can be done to help designers and understand the capabilities for technology in these scenarios. The presence of technologists helped this greatly as many shared their own knowledge of tools and technologies beyond that of Superbloom’s examples, especially technologies that were incubated in Taiwan. 
+
+However, like many prototypes are, they’re only the first step in a potential avenue for improvement in technology. The benefits of this team’s insight are in focusing on the margins where under represented groups, scenarios and circumstances rise. These are the aspects that OSS censorship circumvention and internet shutdown technologies can learn from generally. How to communicate these insights though, reveals the gap between design practice and OSS technology. Methods for designers who create outputs like this sorely need clearer avenues to signal to relevant technologies and stakeholders.
+
+**解決方案：** 因此，他們探索的重點集中在對一個地點（城市或區域）內的流動性和持續移動的需求，以及什麼樣的人已經有這樣的活動行為，浮現出大眾交通的司機或計程車司機這種重要角色。這些民眾也可以使用不時常依賴網路連線的替代通訊方法，如封閉的對講機網絡和無線電。
+
+團隊有幾個地方可以是開源的，包括：
+- 我們如何在導致網路中斷的危機發生之前辨別關鍵民眾（如計程車司機），並在危機來臨之前將他們定位、驗證和傳播訊息。
+- 民眾如何驗證和資訊的可信度，當涉及到生命安全相關的訊息時，他們的想法和主張會是什麼。
+- 同樣，資訊是如何自然傳播的，以及當更有計劃時如何傳播？這些資訊如何傳達給不太懂科技的人。
+- 一旦正確獲得資訊並安全後，民眾接下來會做什麼？當大家都安全、回歸正常生活的下一步是什麼，或者民眾在危機後可能的下一步會是什麼。
+
+這個團隊最初聚焦於由「戰爭」類似衝突場景引發的網路中斷，作為一種基於位置的現象。這意味著，除了從persona 開始,他們還關注於當網路中斷發生時，失去的進行通訊的能力。網路使我們能夠在網路穩定的情況下,與任何我們有聯繫方式的人交談，無論他們在何處、何時只要他們有網路都能夠查看他們的通訊工具。因此,討論重點集中在需要能在一個地點(城市或區域)內持續移動的需求上，而哪些人已經在做這樣的事，產生了公車司機或計程車司機這一類型的關鍵用戶persona。這些民眾也使用不高度依賴網路連線的通訊方式,如對講機和無線電通訊的封閉網路。隨著團隊將討論重點放在擁有持續移動性公車/計程車司機相關的行為上，他們開始探索動機、通訊模式、準備工作，最後是關於信任和驗證證訊息正確性困難的主題討論。這源於傳遞關鍵資訊的人有可能有自己的一套想法或對導致網路中斷的社會議題有自己個人的看法。
+團隊有幾個可以讓開源技術參與的項目
+包括:
+- 如何在導致網路中斷的危機之前找出關鍵民眾(如計程車司機)，並在危機發生前準備他們的地點位置、驗證和傳播信息。
+- 人們如何驗證和信任訊息，在涉及保護生命的資訊時,他們的結論推斷的依據是什麼。
+- 同樣，信息如何自然擴散以及如何更有計劃地傳播?這如何教授給不太精通科技的人。
+- 一旦正確安全地接獲悉，民眾接下來會做什麼?在大家都安全、恢復正常生活的下一步是什麼,或者在危機過後民眾有可能採取的下一步是什麼。
+還有一個擔憂是，計程車司機可能在有限的情況下或他們關心的問題上慷慨地傳遞消息，但最終他們是會犧牲收入來扮演傳遞訊息的角色，也許他們需要一些報酬。
+參與的設計師和技術含量高的參與者普遍意識到，在網路中斷的情況下，大多數人習慣使用的典型科技完全無法運作或無法按預期運作。他們很快注意到，不依賴網路連接的技術可能更老舊、建置和更難使用和更複雜，反應也不那麼即時。這導致焦點轉到了使用者身上，這在一般來說並不頻繁。經過與團隊成員的進一步討論,我們發現在一天的工作坊中,關於網路中斷,有許多細節和過程的方面只能被快速地提及。其中一個話題是「公車/計程車司機」這一群體是否有拒絕傳播的可能，比如與年輕人更相關的議題，如女權、婦女權利和政治信仰及立場。一個有可能的解決方案是「鎖住」資訊，這樣司機就不知道消息的內容。但考慮到「非法」資訊的擔憂，這對他們來說也是有風險的。
+
+_“The team emphasized the importance of this multi-faceted approach: In a crisis like flooding or other natural disasters, we need to ensure that everyone, regardless of their access to technology, can receive and understand life-saving information. High-risk information, such as content related to war, political issues, or rumors, is particularly sensitive. People are often hesitant to share this kind of information because of the varying political stances and interpretations that can lead to conflicts. Many individuals are unwilling to support or deliver any message that could be perceived as a political agenda.”_ **- Pepper from Team Japanese Curry**
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-japanese-curry-solution-11-28.png?raw=true)
+
+---
+
+# Team Pizza Overview
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/pizza.png" height=70 width=120 />
+</p>
+
+A. **Scenario:** The user persona has critical information that they want to report, yet the act of reporting is repressed by a media outlet that could be worried about national or international governmental backlash. Along with this systemic worry there is the possible social pressure from citizens, organizations and entities aligned with the perpetrator and not the victim.
+
+**情境：** 使用者角色擁有他們想要報導的關鍵資訊，但報導的文章被一家媒體機構所抵制，該機構擔心來自國內或國際政府的反彈。除了這種擔憂外，還有來自民眾、社會組織和與加害者而站在同一陣線的實際的社會壓力。
+
+B. **Persona:** Journalist/Citizen journalist. This team focussed on the user persona that has gained critical information about an important, national or international issue and wants to make sure that both citizens and appropriate people in power have access to this information. The team explored the ways that journalists and citizen journalist personas might face challenges like misinformation and disinformation campaigns as well as malicious entities that look to discredit or erase the information and evidence from existence. In our experience as designers working on many projects that face censorship and shutdowns, these personas face targeted attacks and, if an issue is suitably volatile enough, a government or other entity can look to shutdown or throttle internet services or perform targeted censorship. This persona has a high intensity existence once they have obtained information they wish to make public and it becomes important quickly to move away from ordinary, yet insecure internet and communications practices towards privacy and security preserving ones.
+
+**角色：** 記者/公民記者。這個團隊聚焦於一個使用者角色，該角色獲得了關於重要的國家或國際議題的關鍵訊息，並希望確保民眾和適當的有權人士都能獲取這些資訊。團隊討論了記者和公民記者角色可能面臨的挑戰，如錯誤訊息和假消息攻擊，以及試圖抹黑或消滅資訊和證據的惡意組織。這個角色面臨著針對性攻擊，如果一個議題足夠敏感，政府或其他組織可能會試圖關閉或限制網路通訊，或進行有針對性的審查。一旦這個主角獲得了他們希望公布的新聞，他們的生活就會變得高度緊張，迅速從普通但不安全的網路和通訊方式轉向保護隱私和安全的形式就變得非常重要。
+
+C. **Context:** The journey that the user persona went on it%E2%80%99s necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
+
+**背景：** 這段使用者旅程並不是一個明顯的網路中斷場景，例如戰爭、災難或惡意實際切斷網路連線。它更多地呈現被社會和數位科技的管制監控和威脅。發表文章即是將自己暴露在風險之中，而這段旅程描述了一個新聞媒體機構讓個人有機會冒著此風險並不提供安全保護或支援，尤其這是在現實生活中實際發生，而非假設情境下。
+
+D. **Goal:** To share essential news and information in a way that cannot be traced back to a specific individual through any kind of tracking.
+
+**目標：** 在以任何追蹤方式都無法追溯到特定個人的行蹤，以此前提下的方式來分享重要的新聞和資訊。
+
+E. **Solution finding:** The team identify a number of points in a journey where technology can intervene:
+
+- Helping the journalist persona to find out who is likely to be monitoring/surveilling them.
+- Supporting the journalist persona to still use certain words and terms online and offline without raising alarm or risk further monitoring.
+- Helping the journalist persona camouflage or hide critical information on their story ‘in plain sight’ and transfer that through safe, secure online methods that do not require use of compromised internet or internet connection altogether.
+
+Plenty of exploration was done by the group to find physical locations for information to spread as well as how that information can be trusted, verified and obfuscated by ‘passing through many hands’. Here is where the designers encountered the critical aspects of privacy and security alongside an internet shutdown scenario.
+
+The final prototype made was a USB device that could contain vital news, articles and information related to a topic that is possible to have a recognisable logo on. The USB, once opened, would access a ‘proxy’ or ‘sandbox’ to open the relevant files for individuals to read. This ‘sandbox’ was prototyped to work both online and offline. There are still many questions related to trust of devices like USB drives and the risk of malware and viruses on these devices. These in depth topics though would require more user research, exploration and prototype iterations beyond a single day workshop. 
+
+Interestingly, the members of this team we spoke to were interested because of the focus on OSS, privacy, security and internet shutdown issues and attended in order to explore those ideas in a group setting. They commented further that if you’re not a privacy and security engineer or specialist, speaking about and having input or thoughts on these topics felt ‘inaccessible’ without that knowledge and authority. Notably, a member of this team went on to change their study major to engineering and started their own OSS project shortly after the workshop.
+
+**解決方案：** 團隊確定了科技技術可以介入的幾個旅程點：
+
+- 幫助記者角色找出誰可能正在監視/監控他們。
+- 支持記者角色在線上和線下仍然使用某些用字和術語，而不引起警報或增加進一步監控的風險。
+- 幫助記者角色在「明處」偽裝或隱藏關於他們故事的關鍵訊息，並通過安全、可     靠的線上方式傳送資訊，這些方法完全不需要使用被中斷的網路或通訊。
+
+用戶persona經歷的旅程並不一定是明顯的網路中斷場景，例如戰爭、災難、惡意機構中斷連線。它更多地表現為社會和技術審查的恐嚇。用戶persona擁有他們想要報導的重要新聞，但報導卻被國家或國際政府反彈的媒體機構所壓制。除了這種國家機器系統性的擔憂，還有來自與加害者相關的公民、組織和機構的社會壓力。公布新聞意味著讓自己成為攻擊的目標，這個旅程概括了一個個人的經歷，他們的媒體機構並不培訓保護或支援保護他們的安全，而且他們首次面對這種風險不是在假設的說法下，而是在現實生活中。
+
+最終打造的模型是一個可以包含與某個主題相關的重要新聞、文章和訊息的USB工具，可能帶有可辨識別的標籤。一旦打開USB，它會進到一個「代理伺服器」或「安全機制」來開箱相關文件供個人閱讀。這個「安全機制」被設計成可以在線上和線下工作。關於USB驅動器等工具的信任以及這些設備上惡意軟體和病毒的風險仍然存在許多問題。不過，這些深入的主題需要更多的用戶研究、探索和原型擬，超出了單日工作坊的負荷範圍。
+
+有趣的是，我們談到的這個團隊的成員對開源軟體、隱私、安全和網路中斷問題的感到興趣，並參加工作坊以在團隊的形式來探索這些想法。他們進一步回饋說，如果你不是隱私和安全方面的工程師或專家，在沒有這些知識和力量的情況下，討論和對這些主題提出意見或想法感覺「難以觸及」。值得注意的是，這個團隊的一名成員在工作坊後不久改變了他們的主修為工程，並開始了他們自己的開源專案。
+
+_“To disseminate the information anonymously, we wanted to recruit individuals to distribute the USB drives to strangers. This creates a chain of anonymous transmission, making it difficult to trace the original source. As the information spreads, individuals can add details or context, further obscuring the origin. But how do people trust each other enough to share the USB and know what to do with it?”_ **- Pepperoni from Team Pizza**
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-pizza-solution-11-28.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/gaji-bag-full-width.png?raw=true)
+
+---
+
+# Looking ahead: Post Workshop Feedback and Improving workshops
+
+During workshops at [COSCUP 2023](https://coscup.org/2023/en/) (and in [COSCUP 2024](https://coscup.org/2024/en/)) we received actionable feedback from participants. We’ve turned these into recommendations for future workshops.
+
+## Recommendation #1 - Grounding Design exploration in reality
+
+Design exploration activities are useful for those that know those practices (Designers typically) and those that don’t (Activists and OSS Technologists). These are activities like User Persona ([Resource 1](https://superbloom.design/resources/persona-template-tech.pdf) and [Resource 2](https://superbloom.design/resources/superbloom-threat-modeling-template.pdf)), User Scenario and Journey Mapping ([Resource 1](https://superbloom.design/resources/superbloom-user-journey-mapping-template.pdf)) and Ideation activities ([Resource 1](https://www.designkit.org/methods/rapid-prototyping.html) and [Resource 2](https://www.designkit.org/methods/storyboard.html)). However, when you explore design without a clear grounding in the realities of the software and tool landscape people become prone to ‘blue sky thinking’ ideas that are beyond current or possible technical realities. Time spent focusing on short but clear tool demos and landscapes in the workshop allows participants to apply design explorations to existing technology tools/OSS. 
 
 
+## Recommendation #2 - Including OSS maintainers in workshops
+
+OSS is typically open and accessible to anyone for contributions; designers and coders don’t need permission to submit improvements but it often feels like you need to ask before offering design. When you involve OSS maintainers and OSS founders in a workshop they are able to communicate any vision or goals they have for the OSS, as well as communicating any user needs they may know. Additionally, the designers get the opportunity to see the OSS in action if the maintainers can do demos. 
+
+## Recommendation #3 - Including activists in workshops
+
+The presence of people with lived experience of human rights abuses and internet censorship/shutdowns is important to designers, technologists and OSS developers alike. When workshop participants get ‘stuck’ on a particular point, question or circumstance they can look to the person with experiences to offer perspective and their own account. As an informational resource people with lived experience can quickly feel exploited and vulnerable when offering information and therefore we recommend the safest ways to involve these people possible be it remotely, funded in-person attendance and anonymous representation or representative information. We encourage offering access and further value to the activists or communities in the form of involvement in the OSS.
+
+## Recommendation #4 - Design confidence, feedback and designing within systems of oppression
+
+Participants found significance in the processes of feedback between designers. Many designers at the workshop, and in OSS generally, do not get to work closely with other designers (groups of designers are even rarer!) so found the support and feedback process invigorating and valuable to their careers beyond the workshop. The second implicit effect feedback has, is to build confidence and capability in tackling OSS and Internet Freedom topics by designers which can benefit both OSS and Internet Freedom and proprietary, commercial and for-profit spaces, enabling them to design within systems of oppression.
+
+## Recommendation #5 - 2 day workshops with specific focuses 
+Participants of the 2023 workshop that also attended the 2024 workshop noted that they felt like these were two halves of a single workshop spread out a year apart. They value the day of design thinking exercises at 2023’s workshop and the more practical ‘make a contribution’ focus of 2024’s workshop (Read more here on our blog). We recommend that workshops are a minimum of 2 days, one day to focus on design and user exploration and the second to ensure a tangible contribution is made. These days don’t need to both be in person or close together but should ideally happen between 2 weeks and 1 month of each other.
+
+## Recommendation #6 - Design legitimacy and further learning in OSS
+Designers are more commonly working in sectors that don't understand open source software contributions as valuable work experience and how some designers choose to advance their design skills. The designers in attendance wanted certification/a certificate for being involved in the workshop, and also expressed wanting a curriculum or educational course they could follow from OSS design experts in order to become more proficient in design for OSS and internet freedom.
+
+## Recommendation #7 - Small-scale support for prototypes
+The technologists and coders in the workshop wanted to be able to spend time building or coding the solutions prototyped in the workshop and test whether or not they solved the problems they intended to. Offering small scale funding to build and test a prototype technology can help to build infrastructure for on-going involvement in developing OSS Internet Freedom technology, design in OSS Internet Freedom technology and supporting the post workshop enthusiasm beyond the moment.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/crowd-full-width.png"/>
+</p>
+
+---
+
+# Positionality statements
+
+Codenames for the researchers are: Nutmeg, Soybean, Cocoa and Basil.
+
+## What are your beliefs about Taiwan, OSS and Internet Freedom?
+
+**Nutmeg:** My beliefs about Taiwan before these workshops was that, as a country, Taiwan was under threat from China in social, political and societal ways. I believed that Taiwan was in a disadvantageous position when it came to fighting or resisting these threats and while the potential risks are complex, Taiwan is incredibly capable, strong and advanced in Internet Freedom Technologies. 
+
+**Soybean:** I believe Taiwan is part of the human world, and the internet serves as a tool for us to communicate and connect as individuals. The internet is an important infrastructure in our network history, akin to highways, railways, and air routes today. Although maintaining these infrastructures comes at a cost, as humans who thrive through collaboration, ensuring the free and open access to the internet is crucial for uniting people. This relies on the collective efforts of individuals across different nations. Open-source software is one of the means to promote internet freedom by developing tools and sharing solutions that ensure everyone has the opportunity to participate in collaboration and technological advancement. Since humans make mistakes, self-correcting mechanisms are essential in every context, and open-source software is one form of self-correction in technology.
+
+**Cocoa:** I have learnt a lot more about Taiwan and its Internet Freedom and OSS space during the workshops than before. My impressions of the country have mainly been about its strong semiconductor industry, progressive policies and threat from ROC. I have come to learn more about Taiwan’s complex need for Internet Freedom tech for various political and geographical reasons. I have come to learn of the resilience of its people, their capabilities and the ecosystem it offers to voice and develop innovative solutions.
+
+**Basil:** Taiwan currently enjoys a high degree of internet freedom. Unlike some countries, Taiwan does not impose strict regulations on online speech, and people have the freedom to choose how they use the internet. Additionally, internet penetration is very high across the country. Regarding open-source software (OSS), based on my observations, most people are still more accustomed to using paid software or operating systems. This may be due to the school environment, where students typically grow up using Microsoft software, and assignments are often submitted in formats like doc or xls.
+
+## What history or personal interaction do you have with Taiwan, OSS and Internet Freedom?
+
+**Nutmeg:** As a British citizen, before doing these workshops, I distantly understood Taiwan within the context of historical British colonialism. My first direct experiences with Taiwan were directly related to open source software and an inclusive attitude towards design as part of how open source software is made better for users.
+
+**Soybean:** Honestly, I don’t know how to code, but with my social science background, I understand that the birth of technology relies on human collaboration, and designing technology requires the involvement of many people to meet the needs of different groups. When I first joined the g0v community, my favorite thing was observing how people used technology. This also influenced my choice to pursue a design career. The people here are generous, always willing to share how they use technology, along with data and source code, and they are also open to feedback on what they share. I love this spirit of openness and open source.
+
+**Cocoa:** While I have experience in OSS and design, I am relatively new to the Internet Freedom space in Taiwan. I approached this workshop as an opportunity to offer my design skills and design experience while learning more about Internet Freedom. I had already worked on a few open source projects mainly targeted for the South Asian context, at the time of joining the workshop. 
+
+**Basil:** In high school, I participated in a translation project for open-source software (OSS). Additionally, I have some experience using OSS and have recently been deeply involved in related workshops.
+
+
+## What is your connection to workshop participants? Do you share any commonalities, identities, or experiences with workshop participants?
+
+**Nutmeg:** I planned, applied and facilitated workshops around design in open source software and then internet freedom both in Taiwan for this work and also elsewhere through my career. I share and connect to the dedication that Taiwanese people involved in civic tech and OSS have in regards to open access and freedoms. With the workshop participants I share and remember my earlier days of my design career and how community collaboration events shaped my growth and community connection.
+
+**Soybean:** Many participants, like me, are designers, but they come from diverse backgrounds. Some are also friends from the g0v community. One similarity is that we all enjoy observing human behavior, providing emotional value, and making others feel comfortable and relaxed. In terms of self-identity, I think we all share a desire for everyone to lead a happy life.
+
+**Cocoa:** I share commonalities of experiences with the workshop participants in a broader Asian context. There are a few common cultural and behavioral commonalities such as the work ethics driven by Indian and Taiwanese economies, cuisine etc... Apart from that I shared a common interest for Open Source and Design in tech, with many participants. 
+
+**Basil:** I personally believe in the importance of internet freedom, but I also think such freedom needs appropriate management. Taking Taiwan's current situation as an example, the lack of regulation may allow malicious actors to manipulate online discourse. Furthermore, even if the government does not impose internet restrictions, businesses might compromise internet freedom in pursuit of profit. I hope to promote internet freedom more deeply in Taiwan and help people understand that there are viable solutions available when facing internet restrictions.
+
+## What are your hopes for Taiwan, OSS and Internet Freedom?
+
+**Nutmeg:** I hope that Taiwanese citizen’s interest and access to open source software and openness continues to grow and gradually becomes more inclusive of design practices in a sustainable way. I also hope that Taiwan never suffers under censorship or shutdown but I believe there is the resilience and knowledge to prepare and mitigate these circumstances should they come to pass.
+
+**Soybean:** I hope Taiwan continues to maintain an open, diverse, and free social environment, allowing creativity, ideas, and technology to thrive. I also hope open-source software becomes a daily tool for more people, embedding the spirit of sharing technology into everyone’s lives and enabling collaboration. As for internet freedom, I hope we can continue to promote open access, allowing more people to freely access information, express their ideas, and use the power of the internet for effective collaboration. This way, we can support each other and face global challenges together. 
+
+**Cocoa:** I hope that Taiwan continues to be a relatively safer space for activists and people in general to fight on the right side of Internet freedom. I hope that the culture of design in tech and open source grows stronger and that there are more diverse communities participating in conferences such as COSCUP.
+
+**Basil:** I hope that people in Taiwan can embrace open-source software (OSS) with greater openness, instead of relying solely on commercial software due to a reluctance to learn. As for internet freedom, I hope that while defending it, people can also enhance their ability to discern misinformation and cherish the hard-earned freedom they enjoy.
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/bubble-tea-full-width.png)
+
+---
+
+# OSS and documentations process
+
+This workshop’s (and the 2024 workshop) resources, content and illustrations have been uploaded to a Github Repository https://github.com/sprblm/The-Design-We-Open/tree/main. There you will find the content under a [CC0 1.0 Universal license]([url](https://github.com/sprblm/The-Design-We-Open/blob/main/LICENSE)). This license details under what circumstances people can modify or use this content.
+[Superbloom Design]([url](https://superbloom.design/)) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues]([url](https://github.com/sprblm/The-Design-We-Open/issues)), [creating/participating in discussions]([url](https://github.com/sprblm/The-Design-We-Open/discussions)) or making a [pull request]([url](https://github.com/sprblm/The-Design-We-Open/pulls)).
+
+Find our design documentation in our repository: https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/visuals-and-graphics.md 
+
+# Thank you
+
+Thank you to [COSCUP]([url](https://coscup.org/)) for hosting and being a supporter and advocate for design in their OSS event.
+Thank you to [Least Authority:Destiny]([url](https://leastauthority.com/community-matters/destiny/)), [Briar]([url](https://briarproject.org/)) and [NewNode]([url](https://www.newnode.com/)) for being open source software project examples in our internet shutdowns workshop.
+
+Thank you to the attendees, volunteers and supporters involved in these workshops.
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/notebooks-full-width.png)
 
 
 

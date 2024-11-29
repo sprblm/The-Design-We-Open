@@ -1,6 +1,6 @@
 # Positionality statements
 
-Codenames for the researchers are: Nutmeg, Soybean, Cocoa, X and X
+Codenames for the researchers are: Nutmeg, Soybean, Cocoa and Basil.
 
 ## What are your beliefs about Taiwan, OSS and Internet Freedom?
 

@@ -32,4 +32,4 @@ The biggest discovery this team made as they developed their persona was around 
 
 _“Generally Taiwanese citizens trust government-issued apps. Taiwan's V-Watch during the COVID-19 pandemic was an example. It integrated with the popular messaging app LINE, to collect vaccination data and connect the government with the local population. In emergency response situations, trust between the Taiwanese government and the public remains relatively high. However, on the topic of surveillance technology, the team were concerned with who manufactures it. If it’s made in China, there is a risk that these cameras could be used for surveillance.”_ **- Taro from Team Hotpot**
 
-![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-hotpot-solution-11%3A28.png)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-hotpot-solution-11-28.png?raw=true)

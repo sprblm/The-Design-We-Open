@@ -36,4 +36,4 @@ During solutions thinking it is often easy to go in various directions, sometime
 
 _“As a team we wanted to understand how existing technologies (FireChat, NFC, Bluetooth, Fingerprint authentication) could be developed into solutions for the Internet Freedom scenarios and what needed improving.”_ **- Sugar from Team Cake**
 
-![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cake-solution-11%3A28.png)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cake-solution-11-29.png?raw=true)
