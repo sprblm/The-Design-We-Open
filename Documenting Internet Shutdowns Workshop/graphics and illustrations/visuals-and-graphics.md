@@ -269,6 +269,81 @@ Other colors: #203A6B / #F5CBBE / #D2B1A8 / #E0BB79 / #DC9B47 / #D2B1A8
 
 ---
 
+## Graphic #4: Team Pizza’s Woman Journalist Persona
+
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/team-pizza-solution-sketch.jpg?raw=true)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-pizza-solution-11-28.png?raw=true)
+
+
+### Design philosophy
+
+This design draws inspiration from the iconic Taiwanese taxi drivers, capturing the essence of the city's vibrant street culture through intricate details:
+
+1. [The Taxi Driver](https://www.businesstoday.com.tw/article/category/80392/post/201107280015/): Dressed in the classic red jacket, a signature look of Taiwanese taxi drivers.
+2. Interior Decorations: Inside the taxi, a statue of Taiwan’s deity, [the God of Wealth](https://zh.wikipedia.org/zh-tw/%E8%B2%A1%E7%A5%9E), sits on display, representing blessings for safe travels and prosperity. [Hanging gold ingot](https://9999k.com.tw/%E9%8A%80%E9%A3%BE%E7%9F%A5%E8%AD%98/2780.html) charms further enhance the theme of good fortune and financial success. 
+3. Traditional Taxi Equipment: The taxi is equipped with a [dispatch machine](https://www.supamoto.com.tw/products/-supamoto-%E5%A4%A7%E8%81%B2%E5%85%AC-%E5%96%87%E5%8F%AD-%E5%96%8A%E8%A9%B1-%E6%93%B4%E9%9F%B3-%E8%AD%A6%E8%BB%8A-%E6%95%91%E8%AD%B7%E8%BB%8A-%E8%AD%A6%E7%AC%9B-%E6%B0%A3%E7%AC%9B-%E8%9D%B8%E7%89%9B-%E8%AD%A6%E5%A0%B1-%E6%95%91%E9%9B%A3-%E6%B1%BD%E7%AC%9B-%E5%85%AD%E9%9F%B3-6%E9%9F%B3) that displays real-time job assignments and a radio system for remote communication.
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-reporter-pizza-used.png?raw=true)
+
+Stroke names ＆ Document brush settings: 
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-brush-2.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-brush-3.png?raw=true)
+
+### Font names
+
+- Arial Black
+- Apple LiGothic Medium
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-fonts-1.png?raw=true)
+
+This hand-drawn font doesn't reference any existing fonts(Based on the design of Taiwan's 1,000-dollar bill).
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-fonts-2.png?raw=true)
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #293E74 / #394E87 / #F0C8BC / #CEAFA7
+
+### Reference images
+
+[Image link](https://www.pinterest.com/pin/305400418480452817/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-art-1.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/627970741793382992/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-art-2.jpg?raw=true)
+
+[Image link](https://www.google.com/imgres?q=%E6%96%B0%E5%8F%B0%E5%B9%A3%E6%8F%92%E7%95%AB&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Ffour-children-studying-around-globe-260nw-1934387762.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fzh-Hant%2Fsearch%2F%25E6%2596%25B0%25E5%258F%25B0%25E5%25B8%2581&docid=COqHSS-gBrOnsM&tbnid=3VEwDlQrK8eTsM&vet=12ahUKEwjMq7CA2dSJAxVj1jQHHcefFUEQM3oECGIQAA..i&w=551&h=280&hcb=2&ved=2ahUKEwjMq7CA2dSJAxVj1jQHHcefFUEQM3oECGIQAA)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-art-3.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/140806231514266/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-art-4.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/953918764861769424/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/reporter-pizza-art-5.jpg?raw=true)
+
+---
+
+
 
 
 
