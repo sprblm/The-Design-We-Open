@@ -52,7 +52,7 @@ This design not only highlights the depth and inclusiveness of Taiwan’s multic
 
 This design not only highlights the depth and inclusiveness of Taiwan’s multicultural identity but also reflects the Taiwanese people's respect for tradition and openness to modern trends. Each character is not just a cultural symbol but also a messenger of the Taiwanese spirit.
 
-2. Definition
+### Definition
  - [Lucky charm](https://eng2.hdut.edu.tw/p/406-1003-2362,r140.php?Lang=zh-tw):An amulet, also known as a lucky charm or talisman, is typically a small item believed to provide protection to the person who wears it. 
 - [School uniforms of Taiwanese junior school students](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E6%9C%8D)
 - [Taiwanese flag hat](https://www.pcone.com.tw/product/info/200520856582)
@@ -61,5 +61,14 @@ This design not only highlights the depth and inclusiveness of Taiwan’s multic
 - [Fude Zhengshen](https://zh.wikipedia.org/wiki/%E5%9C%9F%E5%9C%B0%E5%85%AC)
 
 
+### Document brush settings
 
+![img]()
 
+[Memento shader brushes]() for illustrator & Stroke names
+
+Brushes in use:
+![img]()
+
+Stroke names ＆ Document brush settings: 
+![img]()
