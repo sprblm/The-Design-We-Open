@@ -484,3 +484,148 @@ Other colors: #2E4078 / #AABCA6 / #F5CBBE / #D2B1A8
 
 ---
 
+## Graphic #7: Team Mojito’s Wifi Router Meshing
+
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/team-mojito-solution-sketch.png?raw=true)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-mojito-solution-11-28.png?raw=true)
+
+
+### Design philosophy:
+
+This design incorporates Taiwan's unique landscape, showcasing the island's four major landmarks:
+
+1. Buildings and Locations: The design features Taipei's iconic landmarks, such as the towering [101 building](https://www.foreignersintaiwan.com/blog/the-taipei-101), the historic [Ximending Red House](https://en.wikipedia.org/wiki/Red_House_Theater), the stunning [Yehliu Queen's Head](https://www.foreignersintaiwan.com/blog/yehliu-geopark-and-ocean-world), and the traditional [Pingxi Sky Lanterns](https://www.foreignersintaiwan.com/blog/pingxi-lantern-festival).
+
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-meshing-mojito-used.png?raw=true)
+
+Stroke names ＆ Document brush settings: 
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-brush-2.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-brush-3.png?raw=true)
+
+### Font names
+
+- Arial Black
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-fonts-1.png?raw=true)
+
+- Apple LiGothic Medium
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-fonts-1.png?raw=true)
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #2E4078 / #3E508D / #9B6296
+
+### Reference images
+
+[Image link](https://www.alamy.com/new-taipei-city-red-highlighted-in-map-of-taiwan-image340428711.html?imageid=3A4D7EF4-21BE-4E0E-8461-BF1EEC9E130F&p=347647&pn=1&searchId=758019dfc18ea8ec4476bbe4d574c887&searchtype=0)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-1.png?raw=true)
+
+[Image link](https://www.pinterest.com/pin/589549407505780535/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-2.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/737957088924926691/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-3.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/515240013596658760/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-4.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/374643262754417719/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-5.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/45036065014777969/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-6.jpg?raw=true)
+
+[Image link](https://www.vietjetair.com/zh-TW/pages/%E5%8F%B0%E5%8C%97-101-%E5%A4%A7%E5%BB%88---%E6%8E%A2%E7%B4%A2%E5%8F%B0%E7%81%A3%E8%91%97%E5%90%8D%E7%9A%84%E8%B1%A1%E5%BE%B5-1711526915594)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-7.jpg?raw=true)
+
+[Image link](https://nchdb.boch.gov.tw/assets/overview/monument/19970220000003)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/meshing-mojito-art-8.png?raw=true)
+
+---
+
+## Graphic #8: Team Hotpot’s Mountain Climber Persona
+
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/hotpot-solution-sketch.png?raw=true)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-hotpot-solution-11-28.png?raw=true)
+
+
+### Design philosophy
+
+This design concept incorporates the natural elements of Taiwan's Yushan, showcasing the island's unique ecology and geographical features:
+
+1. [Yushan](https://en.wikipedia.org/wiki/Yu_Shan): As Taiwan's largest, highest, and most inaccessible national park, Yushan offers breathtaking landscapes and pristine wilderness, becoming a symbol of Taiwan's geography.
+2. [Formosan Rhododendron](https://en.wikipedia.org/wiki/Rhododendron_pseudochrysanthum): This beautiful flower blooms in Yushan's high-altitude regions, representing Taiwan's mountain flora.
+3. [Formosan Sika Deer](https://en.wikipedia.org/wiki/Formosan_sika_deer): This subspecies of sika deer is native to Taiwan, blending seamlessly with Yushan's wild environment and symbolizing the island's unique wildlife and ecological balance.
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-hiker-hotpot-used.png?raw=true)
+
+Stroke names ＆ Document brush settings: 
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-brush-2.png?raw=true)
+
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #293E74 / #946090
+
+### Reference images
+
+[Image link](https://www.youtube.com/watch?v=3Sl_cQvRCRA)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-art-1.jpg?raw=true)
+
+[Image link](https://bio-serendipity.blogspot.com/2010/06/blog-post_4023.html?view=flipcard)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-art-2.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/316589048812870824/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-art-3.jpg?raw=true)
+
+[Image link](https://www.newsmarket.com.tw/mag/14672)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-art-4.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/29484572556716435/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-art-5.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/143693044353846587/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/hiker-hotpot-art-6.jpg?raw=true)
+
+---
