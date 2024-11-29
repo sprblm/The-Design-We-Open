@@ -86,7 +86,6 @@ This hand-drawn font doesn't reference any existing fonts.
 
 Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
 
-
 Other colors: #34427C / #A2669D / #6490A4 / #517D91 / #CD523C / #65172D / #F7BFB1 / #F9CDC0 / #E8E28A / #F9F5B3 / #D5B3AB / #A8B8A4 / #63162C
 
 ### Reference images
@@ -123,5 +122,47 @@ Other colors: #34427C / #A2669D / #6490A4 / #517D91 / #CD523C / #65172D / #F7BFB
 
 ![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/team%20Food%20Name-solution-11-28.png)
 
+
+### Design philosophy
+
+This design concept cleverly blends Taiwan's unique food culture and traditional elements:
+
+1. Pizza: It combines Taiwan's classic pineapple flavor with traditional pizza, creating a fun and creative dish that has a distinct Taiwanese twist.
+2. Hot Pot: Featuring Taiwan's unique dual-sided hot pot, this dish highlights local fresh ingredients and showcases the diverse flavors of Taiwanese hot pot.
+3. Animal-shaped egg pancakes: These adorable little cakes, often found in Taiwan's lively night markets, capture the essence of Taiwanese street food culture.
+4. Kaoliang liquor: Kaoliang liquor, a signature Taiwanese spirit, represents the country's strong alcohol culture.
+5. Tables and chairs: Inspired by the traditional tables and chairs found in Taiwan’s markets and night markets, this element brings the authentic street vibe, making you feel like you're right in the heart of a bustling Taiwanese night market.
+6. Huye (tiger): Huye, the tiger deity in Taiwanese folk religion, symbolizes strength and protection, reflecting Taiwan’s traditional spiritual beliefs.
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img]()
+
+Stroke names ＆ Document brush settings: 
+![img]()
+
+
+### Font names
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-font.png?raw=true)
+
+This hand-drawn font doesn't reference any existing fonts.
+
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #3394E87 / #ECA445 / #DB965F / #B08BAE / #B55945 / #5F132B
+
+### Reference images
+
+
+---
 
 
