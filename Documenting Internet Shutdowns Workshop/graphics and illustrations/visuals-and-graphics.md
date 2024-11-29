@@ -4,7 +4,7 @@ Ching-Fen, Yang (Vico) [Linkedin link](www.linkedin.com/in/vicoyang) created the
 
 Illustrations located in [document image dividers](https://github.com/sprblm/The-Design-We-Open/tree/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers) were created by [Superbloom Design](https://superbloom.design/).
 
-You can find [zipped files of SVG and EPS files]() of the existing artworks to analyse (these must be stored on Superbloom's organisational Google Drive due to large file restrictions on Github).
+You can find [zipped files of SVG and EPS files](https://drive.google.com/drive/folders/1KF1Ae5PocD5qOYWWCuVtGx2_psKMaUDe?usp=sharing) of the existing artworks to analyse (these must be stored on Superbloom's organisational Google Drive due to large file restrictions on Github).
 
 
 ## What you'll find in this folder
@@ -63,12 +63,65 @@ This design not only highlights the depth and inclusiveness of Taiwan’s multic
 
 ### Document brush settings
 
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
 
-[Memento shader brushes]() for illustrator & Stroke names
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
 
 Brushes in use:
-![img]()
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-cover-art-used.png?raw=true)
 
 Stroke names ＆ Document brush settings: 
 ![img]()
+![img]()
+![img]()
+
+### Font names
+![img]()
+
+This hand-drawn font doesn't reference any existing fonts.
+
+
+### Color(hex codes)
+![img]()
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+
+Other colors: #34427C / #A2669D / #6490A4 / #517D91 / #CD523C / #65172D / #F7BFB1 / #F9CDC0 / #E8E28A / #F9F5B3 / #D5B3AB / #A8B8A4 / #63162C
+
+### Reference images
+
+[Image link](https://www.pinterest.com/pin/432064158012414988/)
+![img]()
+
+[Image link](https://uk.pinterest.com/pin/652951645988147197/)
+![img]()
+
+[Image link](https://www.pinterest.com/pin/9640586694481916/)
+![img]()
+
+[Image link](https://www.pinterest.com/pin/829506825149221459/)
+![img]()
+
+[Image link](https://www.pinterest.com/pin/341569953006919170/)
+![img]()
+
+[Image link](https://vocus.cc/article/617fba71fd89780001674731)
+![img]()
+
+---
+
+## Graphic #2: Team Food Name Images
+
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/food-teams-sketch.jpg)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/team%20foods/team%20Food%20Name-solution-11-28.png)
+
+
+
