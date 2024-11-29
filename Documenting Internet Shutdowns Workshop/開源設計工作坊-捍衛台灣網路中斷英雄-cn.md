@@ -7,6 +7,11 @@ _Image caption: An image of four people, smartphones, technology devices. The pe
 
 ---
 
+Throughout this markdown text file you will find Mandarin only. You can find the [Mandarin only document here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/%E9%96%8B%E6%BA%90%E8%A8%AD%E8%A8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%8D%8D%E8%A1%9B%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E4%B8%AD%E6%96%B7%E8%8B%B1%E9%9B%84%20-%20Report%20(cn%20only).pdf)
+You can also find the [English only document here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/No%20Executive%20Summary%20-%20of%20Design%20for%20Internet%20Shutdowns%20in%20Taiwan%20-%20Report%20(en%20only).pdf) and the [English only markdown text file here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/design-for-internet-shutdowns-in-taiwan-report-en.md). English written text and some sections with Mandarin translation afterwards. You are on the [English and Mandarin markdown text file](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/design-for-internet-shutdowns-in-taiwan-report-en-cn.md). You can find the [English and Mandarin document here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/No%20executive%20summary%20-%20of%20Design%20for%20Internet%20Shutdowns%20in%20Taiwan%20-%20Report%20(en%20%26%20cn).pdf).
+
+---
+
 # 為什麼設計和設計師對於網路自由 OSS 很重要
 
 技術人員在人權、公民科技和隱私安全工具領域的熱忱令人欽佩他們開發並讓這些工具可更加完善，源自於真切而深刻的生活體驗。然而，一般用戶雖然認知到這些工具的必要性，卻常常感到無力：然而，當你與這些工具的普通用戶交談時，你會發現他們對人權同樣熱忱，卻又夾雜著不同程度的無力感。這些用戶雖不精通科技技術，但深知這些工具對保障自身安全、隱私和獨立的重要性。
