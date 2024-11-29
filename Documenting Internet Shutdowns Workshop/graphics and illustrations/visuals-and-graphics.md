@@ -334,7 +334,6 @@ Other colors: #293E74 / #394E87 / #F0C8BC / #CEAFA7
 
 ---
 
-
 ## Graphic #5: Team Cake’s Protest Scenario
 
 **Sketch**
@@ -413,4 +412,75 @@ Other colors: #293E74 / #F2BCAE / #BC4F3C / #63162C / #5C8496 / #F9CDC0
 
 ---
 
+## Graphic #6: Team Cheesecake’s Kiosk QR Codes
+
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/team-cheesecake-solution-sketch.jpg?raw=true)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-cheesecake-solution-11-29.png?raw=true)
+
+
+### Design philosophy:
+
+This design combines classic elements of Taiwan's convenience stores, capturing the unique vibe of modern Taiwanese life:
+
+1. [7-11](https://zh.wikipedia.org/zh-tw/7-Eleven): Using the brand's iconic color block design, it recreates the familiar sight of Taiwan's street corner convenience stores, with large advertising posters hanging at the entrance, showcasing everyday scenes in Taiwanese daily life.
+2. [Jet fighters and missiles](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B3%BD%E9%A3%9B%E5%BD%88%E5%8D%B1%E6%A9%9F): These elements reflect the political and military threats Taiwan faces from China, highlighting the frequent use of these tactics as a form of intimidation.
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-combini-cheesecake-used.png?raw=true)
+
+Stroke names ＆ Document brush settings: 
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-brush-2.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-brush-3.png?raw=true)
+
+### Font names
+
+- Arial Black
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-fonts-1.png?raw=true)
+
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #2E4078 / #AABCA6 / #F5CBBE / #D2B1A8
+
+### Reference images
+
+[Image link](https://www.pinterest.com/pin/172051648259221951/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-art-1.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/19210735902367314/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-art-2.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/803259283571210023/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-art-3.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/1091771134662281737/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-art-4.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/1125337025626014401/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-art-5.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/137711701097137791/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/combini-cheesecake-art-6.jpg?raw=true)
+
+---
 
