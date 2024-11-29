@@ -11,4 +11,4 @@ In our example, we show a user journey map created around a protest in a Europea
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/critical-moments-user-journey.png)
 
-Image caption: A photo of a ‘moment’ in a user journey. A single sticky note that reads “Wants to get the message out” is circled in pen.
+_Image caption: A photo of a ‘moment’ in a user journey. A single sticky note that reads “Wants to get the message out” is circled in pen._

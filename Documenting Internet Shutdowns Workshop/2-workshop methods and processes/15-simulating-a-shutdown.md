@@ -16,8 +16,8 @@ With simulation exercises, simple or complex, you can build a more detailed unde
 我們邀請參與者共同體驗在網路被中斷或審查時的感受。實際上，Wi-Fi 和手機熱點並未被關閉，但我們請每位參與者在剩餘的工作坊時間內，將他們的設備設定為飛行模式，或關閉 Wi-Fi 和手機熱點功能。
 通過簡單或複雜的模擬練習，你可以更詳細地了解用戶如何在這些情況下導航。
 
-**“Through exploring the journeys and users, the team was able to improve their understanding of how technical solutions can address social issues. Previously the connection was harder to discover” - Sugar from Team Cake**
+_“Through exploring the journeys and users, the team was able to improve their understanding of how technical solutions can address social issues. Previously the connection was harder to discover”_ **- Sugar from Team Cake**
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/workshop%20slides/The%20Design%20We%20Open%20Workshop%202023/COSCUP%202023%20-%20The%20Design%20We%20Open%20-%20simulating%20a%20shutdown.jpg)
 
-Image caption: A screengrab image of a slide from the workshop. The text reads: Simulating a shutdown. 1. Imagine the government has imposed a shutdown and there's no internet connection in the room. 2. Switch off the internet on your phones. Maybe even laptops. 3. This might be just a lightweight experience of an actual shutdown. 4. Try to live the scenario in the shoes of the persona you have chosen. You can let your personal experience right now guide what your persona might be going through. 5. We will run the simulation for the duration of the rest of the workshop.
+_Image caption: A screengrab image of a slide from the workshop. The text reads: Simulating a shutdown. 1. Imagine the government has imposed a shutdown and there's no internet connection in the room. 2. Switch off the internet on your phones. Maybe even laptops. 3. This might be just a lightweight experience of an actual shutdown. 4. Try to live the scenario in the shoes of the persona you have chosen. You can let your personal experience right now guide what your persona might be going through. 5. We will run the simulation for the duration of the rest of the workshop._
