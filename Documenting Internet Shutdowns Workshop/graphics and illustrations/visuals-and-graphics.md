@@ -24,7 +24,7 @@ All these images are openly licenses under the [Creative Commons Zero v1.0 Unive
 
 In order to create similar images to illustrate any topics contained in this repository or any workshops or content inspired by this content, and that hopes to follow a similar/same visual style please refer to the details below, created by the artist to follow a similar/same style.
 
-You can also read the [.pdf version of the below documentation here]().
+You can also read the [.pdf version of the below documentation here](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/COSCUP%202023%20Illustration%20Deliverables-4-7MB.pdf).
 
 ---
 
