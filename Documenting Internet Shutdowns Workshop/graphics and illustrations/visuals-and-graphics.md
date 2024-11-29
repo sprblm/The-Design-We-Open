@@ -164,7 +164,111 @@ Other colors: #3394E87 / #ECA445 / #DB965F / #B08BAE / #B55945 / #5F132B
 
 ### Reference images
 
+[Image link](https://www.pinterest.com/pin/269230883969181000/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-1.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/946881890397297245/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-2.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/459507968254415312/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-3.jpg?raw=true)
+
+[Image link](https://www.niusnews.com/=P0g3aval7)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-4.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/596797388147261920/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-5.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/31384528647020023/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-6.jpg?raw=true)
+
+[Image link](https://pic.pimg.tw/alicehuang1199/1661615505-2975770093-g.jpg)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-7.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/995717798858703672/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/food-ref-art-8.jpg?raw=true)
 
 ---
+
+## Graphic #3: Team Japanese Curry’s Prototype (3-panel storyboard)
+
+**Sketch**
+・Use the tool: [Procreate](https://procreate.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustration%20sketches/japanese-curry-solution-sketch.jpg?raw=true)
+
+**The final version**
+・Use the tool : [Adobe Illustrator](https://illustrator.adobe.com/)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/solution%20illustrations/team-japanese-curry-solution-11-28.png?raw=true)
+
+
+### Design philosophy
+
+This design draws inspiration from the iconic Taiwanese taxi drivers, capturing the essence of the city's vibrant street culture through intricate details:
+
+1. [The Taxi Driver](https://www.businesstoday.com.tw/article/category/80392/post/201107280015/): Dressed in the classic red jacket, a signature look of Taiwanese taxi drivers.
+2. Interior Decorations: Inside the taxi, a statue of Taiwan’s deity, [the God of Wealth](https://zh.wikipedia.org/zh-tw/%E8%B2%A1%E7%A5%9E), sits on display, representing blessings for safe travels and prosperity. [Hanging gold ingot](https://9999k.com.tw/%E9%8A%80%E9%A3%BE%E7%9F%A5%E8%AD%98/2780.html) charms further enhance the theme of good fortune and financial success. 
+3. Traditional Taxi Equipment: The taxi is equipped with a [dispatch machine](https://www.supamoto.com.tw/products/-supamoto-%E5%A4%A7%E8%81%B2%E5%85%AC-%E5%96%87%E5%8F%AD-%E5%96%8A%E8%A9%B1-%E6%93%B4%E9%9F%B3-%E8%AD%A6%E8%BB%8A-%E6%95%91%E8%AD%B7%E8%BB%8A-%E8%AD%A6%E7%AC%9B-%E6%B0%A3%E7%AC%9B-%E8%9D%B8%E7%89%9B-%E8%AD%A6%E5%A0%B1-%E6%95%91%E9%9B%A3-%E6%B1%BD%E7%AC%9B-%E5%85%AD%E9%9F%B3-6%E9%9F%B3) that displays real-time job assignments and a radio system for remote communication.
+
+### Document brush settings
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/document-brush-settings.png?raw=true)
+
+[Memento shader brushes](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/Memento-shader-brushes-ReadMe.pdf) for illustrator & Stroke names
+
+Brushes in use:
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/brushes-taxi-curry-used.png?raw=true)
+
+Stroke names ＆ Document brush settings: 
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-brush-1.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-brush-2.png?raw=true)
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-brush-3.png?raw=true)
+
+### Font names
+
+- Arial Black
+- Apple LiGothic Medium
+
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-fonts.png?raw=true)
+
+### Color(hex codes)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/cover-art-hex-codes-1.png?raw=true)
+
+Brand colors: #424FAA / #DD6C4E / #100F0E / #F7F6F4 / #C2D5BE / #7E102D / #264A2C / #6BA2C1 / #D7A0D8 / #6E7E55
+
+Other colors: #203A6B / #F5CBBE / #D2B1A8 / #E0BB79 / #DC9B47 / #D2B1A8
+
+### Reference images
+
+[Image link](https://www.businesstoday.com.tw/article/category/80392/post/201107280015/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-1.jpg?raw=true)
+
+[Image link](https://www.kingautos.net/117973)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-2.jpg?raw=true)
+
+[Image link](https://inphic.me/products/number032378)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-3.jpg?raw=true)
+
+[Image link](https://uk.pinterest.com/pin/866028203340204656/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-4.jpg?raw=true)
+
+[Image link](https://www.pinterest.com/pin/4925880836194518/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-5.jpg?raw=true)
+
+[Image link](https://www.supamoto.com.tw/products/-supamoto-%E5%A4%A7%E8%81%B2%E5%85%AC-%E5%96%87%E5%8F%AD-%E5%96%8A%E8%A9%B1-%E6%93%B4%E9%9F%B3-%E8%AD%A6%E8%BB%8A-%E6%95%91%E8%AD%B7%E8%BB%8A-%E8%AD%A6%E7%AC%9B-%E6%B0%A3%E7%AC%9B-%E8%9D%B8%E7%89%9B-%E8%AD%A6%E5%A0%B1-%E6%95%91%E9%9B%A3-%E6%B1%BD%E7%AC%9B-%E5%85%AD%E9%9F%B3-6%E9%9F%B3)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-6.jpg?raw=true)
+
+[Image link](https://www.mobile.com.tw/products/calltaxi-machine/)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-7.jpg?raw=true)
+
+[Image link](https://m.media-amazon.com/images/I/617cSSqh0bL.__AC_SX300_SY300_QL70_ML2_.jpg)
+![img](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/artwork-documentation/taxi-curry-art-8.jpg?raw=true)
+
+---
+
+
 
 
