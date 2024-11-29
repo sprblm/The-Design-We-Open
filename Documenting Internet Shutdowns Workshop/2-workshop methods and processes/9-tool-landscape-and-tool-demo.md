@@ -4,12 +4,11 @@
 
 Participants attending the workshops or hackathons might not have in-depth expertise or knowledge about the kinds of tools, users or problems that the workshop hopes to tackle. This expertise is built up during the first half of the workshop from each person in the group sharing what they know with each other but also through the facilitation of the workshop. We kick off the contextual understanding of the workshop with some introductions, demos and explanations of the types of technologies and tools that can be used for the purposes of censorship circumvention and human rights activism. These don't need to be complete, comprehensive demos and you don't need to be an expert or a user of these tools (it helps if you know the basic functionality of the tools you speak about) but fundamentally, letting participants know what exists and what is technologically possible in the space already helps them to better understand the limitations and explorations of what they will investigate later.
 
-
 參加工作坊或黑客松的參與者可能對工作坊希望運用的工具類型、用戶或議題缺乏深入的專業知識。這些專業知識會在工作坊的前半段透過兩種方式逐步建立：小組成員之間的專業交流，以及工作坊的引導過程。
 我們通過介紹、演示和解釋各種可用於規避審查和支援人權社運技術和工具，來開始建立參與者對工作坊背景的理解。這些不需要是完整、全面的，你也不需要成為這些工具的專家或使用者（如果了解所談論的工具的基本功能會更有幫助），重要的是，讓參與者了解這個領域中已有哪些現有的工具及現有的技術的基礎上可能實現什麼，可以方便他們在後續的研究上可以更好的探索。
 
 
-**“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.” - Pepperoni from Team Pizza**
+_“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.”_ **- Pepperoni from Team Pizza**
 
 
 ## Destiny
@@ -20,7 +19,8 @@ In this workshop we covered a few different technologies, a 'magic wormhole' des
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/workshop%20slides/The%20Design%20We%20Open%20Workshop%202023/COSCUP%202023%20-%20The%20Design%20We%20Open%20-%20tool%20demos%20-%20destiny%202.jpg)
 
-Image caption: A screengrab image of a slide from the workshop. It shows the purple and blue logo for the tool ‘Destiny’, a link to their github project page (https://github.com/LeastAuthority/destiny) and several UI screenshots from the tool showing end-to-end encryption and how devices link to each other to send files. There is a screen of Destiny that has a large button that reads ‘Select a file’ and the next screens progress through sending a file.
+_Image caption: A screengrab image of a slide from the workshop. It shows the purple and blue logo for the tool ‘Destiny’, a link to their github project page (https://github.com/LeastAuthority/destiny) and several UI screenshots from the tool showing end-to-end encryption and how devices link to each other to send files. There is a screen of Destiny that has a large button that reads ‘Select a file’ and the next screens progress through sending a file._
+
 
 ## Briar
 
@@ -30,8 +30,10 @@ The second tool we introduced is a communication, messaging and documentation to
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/workshop%20slides/The%20Design%20We%20Open%20Workshop%202023/COSCUP%202023%20-%20The%20Design%20We%20Open%20-%20tool%20demos%20-%20briar%202.jpg)
 
-## New Node
+_Image caption: A screengrab image of a slide from the workshop detailing the tool called ‘Briar’ with the project website https://briarproject.org/ and the green logo. There is an image of a phone with an animation that cycles through the UI of Briar, including the sign in page and how a user would use messaging in Briar._
 
+
+## New Node
 
 The last tool we introduced is 'New Node' which, similar to Briar, is a peer-to-peer communication tool that is harder to censor or shutdown as it connects directly to other devices with NewNode. Similar to Briar, NewNode can help people in situations where the internet is censored or shutdown make essential communications with trusted people. We also offer a 2 page document with other common tools used in internet shutdowns that participants can investigate when they get time to explore.
 
@@ -39,7 +41,7 @@ The last tool we introduced is 'New Node' which, similar to Briar, is a peer-to-
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/workshop%20slides/The%20Design%20We%20Open%20Workshop%202023/COSCUP%202023%20-%20The%20Design%20We%20Open%20-%20newnode%202.jpg)
 
-Image caption: Two images of the UI of NewNode. The images show a list of contact profile pictures in circles and the message thread previews next to them that shows the most recent message from that message history. The next UI shows a message thread with one person detailing an audio file and an image file being sent as well as fire emojis being used in chat.
+_Image caption: Two images of the UI of NewNode. The images show a list of contact profile pictures in circles and the message thread previews next to them that shows the most recent message from that message history. The next UI shows a message thread with one person detailing an audio file and an image file being sent as well as fire emojis being used in chat._
 
 Finally, the room was opened up to discuss and write down tools that participants knew of that they anticipated could be useful in internet shutdown scenarios. Even if participants are not familiar with internet shutdowns or other human rights related purposes, they begin to understand the needs and circumstances that people in these human rights situations need and what technology could be useful or fundamental in such scenarios. Participants can either call these out in the room or write their own on stickies and then place them on a common area. In addition to technology or tools it is also helpful to write what it aims to do or achieve, within the human rights context.
 
@@ -47,7 +49,7 @@ Finally, the room was opened up to discuss and write down tools that participant
 
 ![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/workshop%20slides/The%20Design%20We%20Open%20Workshop%202023/COSCUP%202023%20-%20The%20Design%20We%20Open%20-%20other%20tools%20from%20participants%202.jpg)
 
-Image caption: A screengrab image of a slide from the workshop showing many virtual sticky notes with different tools that workshop participants knew about from the workshop. There is a mixture of English characters and Mandarin characters.
+_Image caption: A screengrab image of a slide from the workshop showing many virtual sticky notes with different tools that workshop participants knew about from the workshop. There is a mixture of English characters and Mandarin characters._
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/mobile-phones-divider.png" />
