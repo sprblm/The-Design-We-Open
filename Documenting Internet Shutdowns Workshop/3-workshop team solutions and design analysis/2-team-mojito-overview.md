@@ -12,7 +12,7 @@ B. **Persona:** An academic user persona - Computer Engineer and Civic Journalis
 
 **角色：** 一位電腦工程師兼公民記者。Mojito團隊選擇這個角色是因為他們在新聞中讀到過類似的案例。這種熟悉感幫助他們更好地理解這個人的處境。
 
-C. **Context:** The journalist%E2%80%99s paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
+C. **Context:** The journalist's paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
 
 **背景：** 這位記者的報告揭露了敏感的政府資訊，引發了抗議和動亂。他必須試圖安全地逃離國家，獲取旅行證件，並為自己和親人安排安全通道。由於他不能使用常規和一般的交通方式，他需要找到一種通過陸路越境的方法。在他的逃亡中，他無法使用網路，必須謹慎行事以保持隱私，隱藏自己的行蹤和身份。
 

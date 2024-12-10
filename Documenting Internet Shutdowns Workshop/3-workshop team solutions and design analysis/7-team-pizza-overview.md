@@ -12,7 +12,7 @@ B. **Persona:** Journalist/Citizen journalist. This team focussed on the user pe
 
 **角色：** 記者/公民記者。這個團隊聚焦於一個使用者角色，該角色獲得了關於重要的國家或國際議題的關鍵訊息，並希望確保民眾和適當的有權人士都能獲取這些資訊。團隊討論了記者和公民記者角色可能面臨的挑戰，如錯誤訊息和假消息攻擊，以及試圖抹黑或消滅資訊和證據的惡意組織。這個角色面臨著針對性攻擊，如果一個議題足夠敏感，政府或其他組織可能會試圖關閉或限制網路通訊，或進行有針對性的審查。一旦這個主角獲得了他們希望公布的新聞，他們的生活就會變得高度緊張，迅速從普通但不安全的網路和通訊方式轉向保護隱私和安全的形式就變得非常重要。
 
-C. **Context:** The journey that the user persona went on it%E2%80%99s necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
+C. **Context:** The journey that the user persona went on is not necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
 
 **背景：** 這段使用者旅程並不是一個明顯的網路中斷場景，例如戰爭、災難或惡意實際切斷網路連線。它更多地呈現被社會和數位科技的管制監控和威脅。發表文章即是將自己暴露在風險之中，而這段旅程描述了一個新聞媒體機構讓個人有機會冒著此風險並不提供安全保護或支援，尤其這是在現實生活中實際發生，而非假設情境下。
 

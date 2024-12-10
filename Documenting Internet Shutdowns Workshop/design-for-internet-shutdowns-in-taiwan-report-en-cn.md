@@ -556,7 +556,7 @@ B. **Persona:** An academic user persona - Computer Engineer and Civic Journalis
 
 **角色：** 一位電腦工程師兼公民記者。Mojito團隊選擇這個角色是因為他們在新聞中讀到過類似的案例。這種熟悉感幫助他們更好地理解這個人的處境。
 
-C. **Context:** The journalist%E2%80%99s paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
+C. **Context:** The journalist's paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
 
 **背景：** 這位記者的報告揭露了敏感的政府資訊，引發了抗議和動亂。他必須試圖安全地逃離國家，獲取旅行證件，並為自己和親人安排安全通道。由於他不能使用常規和一般的交通方式，他需要找到一種通過陸路越境的方法。在他的逃亡中，他無法使用網路，必須謹慎行事以保持隱私，隱藏自己的行蹤和身份。
 
@@ -606,7 +606,7 @@ B. **User persona:** The persona they focused on was a professional adult, climb
 
 **角色：** 他們聚焦的角色是一位專業成年人，爬山愛好者，在這個災難情境發生之前，從未考慮或準備過通訊中斷的情況。在這次討論中，我們討論了一般的關鍵使用者類型，在發展使用者旅程的過程中，討論的一般關鍵用戶是未做準備的普通民眾，他們因環境而被「推進」通訊中斷的情況，並在對外聯繫上遇到困難。
 
-C. **Context:** The team members found that this was a user persona as well as a scenario where they could explore the topics of restricted communication, harm to people around them and decision making around what to communicate, when and to what best effect for more than one person. The topic of war-like or an international or national %E2%80%98internet shutdown%E2%80%99 was discussed in this team, but the safer option that explored similar themes was the natural disaster scenario and allowed the team to speak freely, unburdened by sensitive politics.
+C. **Context:** The team members found that this was a user persona as well as a scenario where they could explore the topics of restricted communication, harm to people around them and decision making around what to communicate, when and to what best effect for more than one person. The topic of war-like or an international or national 'internet shutdown was discussed in this team, but the safer option that explored similar themes was the natural disaster scenario and allowed the team to speak freely, unburdened by sensitive politics.
 
 **背景：** 團隊成員發現這不僅是一個使用者角色，也是一個可以探索受限通訊、周圍人員受傷以及決策如何、何時、以何種方式最有效地為多人聯繫通訊的情境。團隊討論了戰爭般或國際性/全國性「網路中斷」的話題的可能性，但更安全的選擇是探討類似主題的自然天災的情境，這讓團隊能夠自由發言，不受敏感政治話題的束縛。
 
@@ -933,6 +933,7 @@ This workshop’s (and the 2024 workshop) resources, content and illustrations h
 [Superbloom Design](https://superbloom.design/) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues](https://github.com/sprblm/The-Design-We-Open/issues), [creating/participating in discussions](https://github.com/sprblm/The-Design-We-Open/discussions) or making a [pull request](https://github.com/sprblm/The-Design-We-Open/pulls).
 
 Find our design documentation in our repository: https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/visuals-and-graphics.md 
+
 
 # Thank you
 

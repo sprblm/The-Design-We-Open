@@ -83,21 +83,7 @@ OSS 領域的從業者或貢獻者是工作坊的寶貴資產。他們可以：
 - 指導新手使用 OSS 流程，如提交問題、創建分支、安裝和使用 OSS 項目等
 
 
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-10.JPG)
-
-_Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs._
-
----
-
-## 開源設計專家
-
-OSS 領域的從業者或貢獻者是工作坊的寶貴資產。他們可以：
-- 提供 OSS 項目的深入洞見和背景知識
-- 分享 OSS 文化、溝通方式和社群期望
-- 熟練操作 OSS 貢獻流程和工具
-- 指導新手使用 OSS 流程，如提交問題、創建分支、安裝和使用 OSS 項目等
-
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-10.JPG)
+![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-10.png?raw=true)
 
 _Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs._
 
@@ -159,7 +145,7 @@ _Image caption: A screengrab of the slide used in the workshop for openness and 
 例如，你可以鼓勵每組維持2/2/2的比例 ： 2名設計師、2名開源專家/開發人員和2名網路自由//非營利組織顧問 。有些人可以擔任多重角色(例如，設計師也可能在非政府組織工作，或者開源軟體開發人員也可能有參與社運的經驗)，這是可以的。關鍵在於小組擁有多樣化的經驗、技能和見解，並且能夠以互相尊重的方式進行溝通與協作，就可以說是一個理想的小組。
 我們試圖鼓勵人們在這些工作坊中結識新朋友，這可以有效地促進經驗、觀點的交流，並有機會讓技能共享。我們採用了"購物清單"的分組方式 - 我們讓每個人都想到他們最喜歡的食物或飲料中的一種配料。(例如「起司」)，接著挑選1位小組組長，請他大聲說出構成他們選擇的食物的配料，他們可能會說：「我需要意大利辣香腸!」如果有人選擇了意大利臘腸，他們就會加入那組。小組組長會繼續喊出食物的配料，直到他們有5-6個人，同時盡可能列舉更多配料來「製作」那道美食。最後，團隊以他們的食物命名，例如「披薩隊」。這種方法不僅能打破陌生感，還能在歡樂的氛圍中自然而然地形成多元化的小組。
 
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-11.JPG)
+![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-11.png?raw=true)
 
 _Image caption: A photo from the workshop that shows the entire room. 5 groups of people are gathered at their own tables and are enthusiastically discussing the topic of ‘Personas’. There is a large projector screen at the front of the classroom and tall windows on the left. There are many laptops, notebooks and sticky notes on the tables._
 

@@ -33,7 +33,7 @@ Designers and their practices bridge the experiences between tool developers and
 
 Yet the barriers for designers and design practice to be normalized in Internet Freedom OSS technology are great. Design practice often registers as less vital than technological skills. Less budgeted for, less respected, less served by online collaboration platforms yet in design practice is where the interaction between the lived experience of the human meets technology and is humanized. Humanising technology and understanding these high risk, complex human rights defenders experiences is where we find the focus of the design events and hackathons like those hosted at COSCUP.
 
-**“The team found that the workshop format was effective in bridging the gap between technical and non-technical participants, showing the power of design processes in building and improving technology” - Sugar from Team Cake**
+_“The team found that the workshop format was effective in bridging the gap between technical and non-technical participants, showing the power of design processes in building and improving technology”_ **- Sugar from Team Cake**
 
 ![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/notebooks-full-width.png)
 
@@ -131,19 +131,7 @@ People who work on or have contributed to OSS generally are valuable participant
 
 _“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.”_ **- Pepperoni from Team Pizza**
 
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-10.JPG)
-
-_Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs._
-
----
-
-## Open source design experts
-
-People who work on or have contributed to OSS generally are valuable participants of this workshop. They are able to give insight and context on OSS culture, communication and expectations across a broad selection of OSS projects. They can also typically operate and use the interfaces and processes needed to contribute to OSS more quickly and effectively than those completely new to these but also can support and teach other participants at the workshop how to use OSS processes and functions e.g. how to submit an issue, how to create a branch, how to install, run and use an OSS project/tool.
-
-_“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.”_ **- Pepperoni from Team Pizza**
-
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-10.JPG)
+![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-10.png?raw=true)
 
 _Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs._
 
@@ -204,7 +192,7 @@ There are many methods that can be used to help people form groups. We recommend
 For example, you want to encourage a group to have a 2 / 2 / 2 ratio - 2 designers, 2 OSS technologists/developers and 2 Internet Freedom/NGO insights people. Some people can perform more than one of these roles (e.g. A designer might also work in an NGO or an OSS developer might also have experiences of protests) which is fine. As long as your groups have diverse experience, skills and insights and can communicate and collaborate respectfully, you have a good group.
 We try to encourage people to meet new people in these workshops which can be effective in mixing up experiences, perspectives and allows for some skill sharing. We used the 'shopping list' method for mixing up teams - everyone in the room thought of an ingredient for their favorite food or drink. (e.g. 'cheese') and then 1 group leader is picked to say out loud the ingredients that makes their food of choice, out loud they will say 'I need pepperoni!' and if another person chose pepperoni they would join that team. The group leader then keeps saying ingredients for their food until they have 5-6 people and as many ingredients as they can to 'make' that food. The team's name then becomes their food type e.g. 'Team Pizza'.
 
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-11.JPG)
+![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-11.png?raw=true)
 
 _Image caption: A photo from the workshop that shows the entire room. 5 groups of people are gathered at their own tables and are enthusiastically discussing the topic of ‘Personas’. There is a large projector screen at the front of the classroom and tall windows on the left. There are many laptops, notebooks and sticky notes on the tables._
 
@@ -434,7 +422,7 @@ A. **Scenario:** A Chinese computer engineer and civic journalist, whose investi
 
 B. **Persona:** An academic user persona - Computer Engineer and Civic Journalist. Team Mojito chose this persona because they read about a similar case in the news. The familiarity helped them relate to the person's situation better.
 
-C. **Context:** The journalist%E2%80%99s paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
+C. **Context:** The journalist's paper exposed sensitive government information which has caused protests and unrest. He must try to escape the country safely, securing travel documents, and arranging safe passage for himself and his loved ones. Since he cannot use regular and common means of transport, he needs to find a way to cross the border via land. Through his journey he is unable to access the internet and must be cautious to maintain privacy, keep his whereabouts and identity hidden.
 
 D. **Goal:** To escape and secure a safe and discreet exit from the country for himself and his family.
 
@@ -465,7 +453,7 @@ A. **Scenario:** This team was focused on emergency communication tools in disas
 
 B. **User persona:** The persona they focused on was a professional adult, climbing hobbyist who, until this disaster scenario, had not thought or prepared for a lack of communication. In this exploration the general critical user type is explored, the unprepared, regular citizen who by circumstance has been ‘pushed’ into communication cut off and is struggling with what to do.
 
-C. **Context:** The team members found that this was a user persona as well as a scenario where they could explore the topics of restricted communication, harm to people around them and decision making around what to communicate, when and to what best effect for more than one person. The topic of war-like or an international or national %E2%80%98internet shutdown%E2%80%99 was discussed in this team, but the safer option that explored similar themes was the natural disaster scenario and allowed the team to speak freely, unburdened by sensitive politics.
+C. **Context:** The team members found that this was a user persona as well as a scenario where they could explore the topics of restricted communication, harm to people around them and decision making around what to communicate, when and to what best effect for more than one person. The topic of war-like or an international or national 'internet shutdown' was discussed in this team, but the safer option that explored similar themes was the natural disaster scenario and allowed the team to speak freely, unburdened by sensitive politics.
 
 D. **Goal:** To use available technology when in a remote/rural location with limited internet connectivity, to contact or 'send a signal' (primarily location data) in order to coordinate rescue and/or sending new location information to those without connectivity.
 
@@ -586,7 +574,7 @@ A. **Scenario:** The user persona has critical information that they want to rep
 
 B. **Persona:** Journalist/Citizen journalist. This team focussed on the user persona that has gained critical information about an important, national or international issue and wants to make sure that both citizens and appropriate people in power have access to this information. The team explored the ways that journalists and citizen journalist personas might face challenges like misinformation and disinformation campaigns as well as malicious entities that look to discredit or erase the information and evidence from existence. In our experience as designers working on many projects that face censorship and shutdowns, these personas face targeted attacks and, if an issue is suitably volatile enough, a government or other entity can look to shutdown or throttle internet services or perform targeted censorship. This persona has a high intensity existence once they have obtained information they wish to make public and it becomes important quickly to move away from ordinary, yet insecure internet and communications practices towards privacy and security preserving ones.
 
-C. **Context:** The journey that the user persona went on it%E2%80%99s necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
+C. **Context:** The journey that the user persona went on is not necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
 
 D. **Goal:** To share essential news and information in a way that cannot be traced back to a specific individual through any kind of tracking.
 
@@ -697,15 +685,15 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa and Basil.
 
 # OSS and documentations process
 
-This workshop’s (and the 2024 workshop) resources, content and illustrations have been uploaded to a Github Repository https://github.com/sprblm/The-Design-We-Open/tree/main. There you will find the content under a [CC0 1.0 Universal license]([url](https://github.com/sprblm/The-Design-We-Open/blob/main/LICENSE)). This license details under what circumstances people can modify or use this content.
-[Superbloom Design]([url](https://superbloom.design/)) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues]([url](https://github.com/sprblm/The-Design-We-Open/issues)), [creating/participating in discussions]([url](https://github.com/sprblm/The-Design-We-Open/discussions)) or making a [pull request]([url](https://github.com/sprblm/The-Design-We-Open/pulls)).
+This workshop’s (and the 2024 workshop) resources, content and illustrations have been uploaded to a Github Repository https://github.com/sprblm/The-Design-We-Open/tree/main. There you will find the content under a [CC0 1.0 Universal license](https://github.com/sprblm/The-Design-We-Open/blob/main/LICENSE). This license details under what circumstances people can modify or use this content.
+[Superbloom Design](https://superbloom.design/) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues](https://github.com/sprblm/The-Design-We-Open/issues), [creating/participating in discussions](https://github.com/sprblm/The-Design-We-Open/discussions) or making a [pull request](https://github.com/sprblm/The-Design-We-Open/pulls).
 
 Find our design documentation in our repository: https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/visuals-and-graphics.md 
 
 # Thank you
 
-Thank you to [COSCUP]([url](https://coscup.org/)) for hosting and being a supporter and advocate for design in their OSS event.
-Thank you to [Least Authority:Destiny]([url](https://leastauthority.com/community-matters/destiny/)), [Briar]([url](https://briarproject.org/)) and [NewNode]([url](https://www.newnode.com/)) for being open source software project examples in our internet shutdowns workshop.
+Thank you to [COSCUP](https://coscup.org/) for hosting and being a supporter and advocate for design in their OSS event.
+Thank you to [Least Authority:Destiny](https://leastauthority.com/community-matters/destiny/), [Briar](https://briarproject.org/) and [NewNode](https://www.newnode.com/) for being open source software project examples in our internet shutdowns workshop.
 
 Thank you to the attendees, volunteers and supporters involved in these workshops.
 

@@ -25,7 +25,7 @@ Yet the barriers for designers and design practice to be normalized in Internet 
 然而，設計在網路自由開源軟體領域的重要性仍未得到充分認可。與技術技能相比，設計實踐常被視為次要，獲得的資源和重視度較低。但正是在設計中，人類經驗與技術相融，實現了人性化。理解高風險、複雜的人權捍衛者的需求，正是COSCUP等設計活動和黑客松的核心。
 
 
-**“The team found that the workshop format was effective in bridging the gap between technical and non-technical participants, showing the power of design processes in building and improving technology” - Sugar from Team Cake**
+_“The team found that the workshop format was effective in bridging the gap between technical and non-technical participants, showing the power of design processes in building and improving technology”_ **- Sugar from Team Cake**
 
 ![img](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/document%20image%20dividers/notebooks-full-width.png)
 
