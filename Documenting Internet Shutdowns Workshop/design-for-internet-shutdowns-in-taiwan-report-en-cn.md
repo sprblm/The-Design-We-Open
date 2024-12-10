@@ -180,7 +180,7 @@ OSS 領域的從業者或貢獻者是工作坊的寶貴資產。他們可以：
 
 _“I was curious about open-source software and found the internet shutdown scenario. This experience has reinforced my view of GitHub as a collaborative platform where developers can gain valuable insights on their projects. I have created my own OSS project since the workshop.”_ **- Pepperoni from Team Pizza**
 
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-10.JPG)
+![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-10.png?raw=true)
 
 _Image caption: A photo of the workshop from behind. There are many masc and femme presenting people facing towards a projector screen where the workshop facilitators are standing with a microphone. Behind the facilitators is a wall of colorful sticky notes. The room is a classroom style with white walls, gray and brown tables filled with notebooks, sticky notes, pens and laptops and there are plastic chairs._
 
@@ -271,7 +271,7 @@ We try to encourage people to meet new people in these workshops which can be ef
 例如，你可以鼓勵每組維持2/2/2的比例 ： 2名設計師、2名開源專家/開發人員和2名網路自由//非營利組織顧問 。有些人可以擔任多重角色(例如，設計師也可能在非政府組織工作，或者開源軟體開發人員也可能有參與社運的經驗)，這是可以的。關鍵在於小組擁有多樣化的經驗、技能和見解，並且能夠以互相尊重的方式進行溝通與協作，就可以說是一個理想的小組。
 我們試圖鼓勵人們在這些工作坊中結識新朋友，這可以有效地促進經驗、觀點的交流，並有機會讓技能共享。我們採用了"購物清單"的分組方式 - 我們讓每個人都想到他們最喜歡的食物或飲料中的一種配料。(例如「起司」)，接著挑選1位小組組長，請他大聲說出構成他們選擇的食物的配料，他們可能會說：「我需要意大利辣香腸!」如果有人選擇了意大利臘腸，他們就會加入那組。小組組長會繼續喊出食物的配料，直到他們有5-6個人，同時盡可能列舉更多配料來「製作」那道美食。最後，團隊以他們的食物命名，例如「披薩隊」。這種方法不僅能打破陌生感，還能在歡樂的氛圍中自然而然地形成多元化的小組。
 
-![image](https://raw.githubusercontent.com/sprblm/The-Design-We-Open/refs/heads/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/group-11.JPG)
+![image](https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/photos/Group-11.png?raw=true)
 
 _Image caption: A photo from the workshop that shows the entire room. 5 groups of people are gathered at their own tables and are enthusiastically discussing the topic of ‘Personas’. There is a large projector screen at the front of the classroom and tall windows on the left. There are many laptops, notebooks and sticky notes on the tables._
 
@@ -333,8 +333,7 @@ _Image caption: A screengrab image of a slide from the workshop showing many vir
 
 ---
 
-## Why design is needed in OSS and Internet Freedom tools / 
-為什麼開源軟體（OSS）和網際網路自由工具需要設計
+## Why design is needed in OSS and Internet Freedom tools / 為什麼開源軟體（OSS）和網際網路自由工具需要設計
 
 One of the main purposes of encouraging designers to participate in OSS and Internet Freedom tool workshops and hackathons is that commonly, these OSS tools and Internet Freedom technologies don't have dedicated design support or design contributions. Hence these tools lack the kind of usability, design and interfaces that regular people expect from technology. They can have difficult to use interfaces, unusual settings, difficult technical language and non-supportive help text or error text. These are just some of the ways in which OSS and Internet Freedom technology can be 'lacking' in terms of design than other commonly used proprietary and commercial technologies and tools.
 We focus on showing and communicating the lack of consistent design support for these technologies to help the designers present in the workshop understand the impact they will be able to make on these tools even with limited time in a workshop. Design is an underserved function across OSS and the Internet Freedom space, though there are talented and dedicated designers in the space they can be supported immensely by designers volunteering at events like these workshops. One of the fantastic things about running workshops on these topics around the globe is that these technologies are able to gain perspective from multiple citizens and user perspectives. These OSS internet freedom tools can then be designed with many cultural and contextual scenarios which makes them more usable, relevant and useful world-wide.
@@ -396,8 +395,6 @@ _“Our persona already knows how to encrypt sensitive data within images (Stega
 _Image caption: A photo of a large piece of paper taped to a window. The paper has a title ‘What are common UX challenges in ‘SD’ (Shut Down’ scenarios’ and has many colorful sticky notes stuck to it in groups labeled: ‘Explanations’ ‘TMI’ ‘Sync & Status’ ‘Discovery’ ‘Trust’ ‘Devices’ ‘Risk’ and ‘Adoption’._
 
 ---
-
-# Workshop Methods and processes / 工作坊的方法和過程
 
 ## Harmful or adversarial personas (personas non-grata) / 有害或對立的角色（不受歡迎的角色）
 
@@ -481,8 +478,6 @@ In our example, we show a user journey map created around a protest in a Europea
 _Image caption: A photo of a ‘moment’ in a user journey. A single sticky note that reads “Wants to get the message out” is circled in pen._
 
 ---
-
-# Workshop Methods and processes / 工作坊的方法和過程
 
 ## Ideate and design / 構思與設計
 
@@ -807,7 +802,7 @@ B. **Persona:** Journalist/Citizen journalist. This team focussed on the user pe
 
 **角色：** 記者/公民記者。這個團隊聚焦於一個使用者角色，該角色獲得了關於重要的國家或國際議題的關鍵訊息，並希望確保民眾和適當的有權人士都能獲取這些資訊。團隊討論了記者和公民記者角色可能面臨的挑戰，如錯誤訊息和假消息攻擊，以及試圖抹黑或消滅資訊和證據的惡意組織。這個角色面臨著針對性攻擊，如果一個議題足夠敏感，政府或其他組織可能會試圖關閉或限制網路通訊，或進行有針對性的審查。一旦這個主角獲得了他們希望公布的新聞，他們的生活就會變得高度緊張，迅速從普通但不安全的網路和通訊方式轉向保護隱私和安全的形式就變得非常重要。
 
-C. **Context:** The journey that the user persona went on it%E2%80%99s necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
+C. **Context:** The journey that the user persona went on is not necessarily an obvious internet shutdown scenario e.g. war, disaster, malicious entity removing connectivity. It surfaces as more social and technological censorship and intimidation. To publish is to make a target of one's self and this journey encapsulates the experience of an individual who's media outlet does not train or support their safety and that meets this risk not in a hypothetical scenario first, but a real scenario.
 
 **背景：** 這段使用者旅程並不是一個明顯的網路中斷場景，例如戰爭、災難或惡意實際切斷網路連線。它更多地呈現被社會和數位科技的管制監控和威脅。發表文章即是將自己暴露在風險之中，而這段旅程描述了一個新聞媒體機構讓個人有機會冒著此風險並不提供安全保護或支援，尤其這是在現實生活中實際發生，而非假設情境下。
 
@@ -934,15 +929,15 @@ Codenames for the researchers are: Nutmeg, Soybean, Cocoa and Basil.
 
 # OSS and documentations process
 
-This workshop’s (and the 2024 workshop) resources, content and illustrations have been uploaded to a Github Repository https://github.com/sprblm/The-Design-We-Open/tree/main. There you will find the content under a [CC0 1.0 Universal license]([url](https://github.com/sprblm/The-Design-We-Open/blob/main/LICENSE)). This license details under what circumstances people can modify or use this content.
-[Superbloom Design]([url](https://superbloom.design/)) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues]([url](https://github.com/sprblm/The-Design-We-Open/issues)), [creating/participating in discussions]([url](https://github.com/sprblm/The-Design-We-Open/discussions)) or making a [pull request]([url](https://github.com/sprblm/The-Design-We-Open/pulls)).
+This workshop’s (and the 2024 workshop) resources, content and illustrations have been uploaded to a Github Repository https://github.com/sprblm/The-Design-We-Open/tree/main. There you will find the content under a [CC0 1.0 Universal license](https://github.com/sprblm/The-Design-We-Open/blob/main/LICENSE). This license details under what circumstances people can modify or use this content.
+[Superbloom Design](https://superbloom.design/) maintains open source repositories on an adhoc basis after publishing. If you want to contribute we suggest [creating/participating in issues](https://github.com/sprblm/The-Design-We-Open/issues), [creating/participating in discussions](https://github.com/sprblm/The-Design-We-Open/discussions) or making a [pull request](https://github.com/sprblm/The-Design-We-Open/pulls).
 
 Find our design documentation in our repository: https://github.com/sprblm/The-Design-We-Open/blob/main/Documenting%20Internet%20Shutdowns%20Workshop/graphics%20and%20illustrations/visuals-and-graphics.md 
 
 # Thank you
 
-Thank you to [COSCUP]([url](https://coscup.org/)) for hosting and being a supporter and advocate for design in their OSS event.
-Thank you to [Least Authority:Destiny]([url](https://leastauthority.com/community-matters/destiny/)), [Briar]([url](https://briarproject.org/)) and [NewNode]([url](https://www.newnode.com/)) for being open source software project examples in our internet shutdowns workshop.
+Thank you to [COSCUP](https://coscup.org/) for hosting and being a supporter and advocate for design in their OSS event.
+Thank you to [Least Authority:Destiny](https://leastauthority.com/community-matters/destiny/), [Briar](https://briarproject.org/) and [NewNode](https://www.newnode.com/) for being open source software project examples in our internet shutdowns workshop.
 
 Thank you to the attendees, volunteers and supporters involved in these workshops.
 
